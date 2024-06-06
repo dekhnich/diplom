@@ -1,7 +1,9 @@
-export default function LoginPage() {
+export default function LoginPage({ onLogin }) {
     return (
         <div>
             Логин
+
+            <button onClick={onLogin}>Войти</button>
         </div>
     )
 };

@@ -6,8 +6,9 @@ import { AiOutlineClose } from 'react-icons/ai';
 import Button from '../Button/Button';
 import { useProducts } from '../../store/useProducts';
 import Search from '../Search/Search'
+import Logout from '../Logout';
 
-export default function Header({ title, subtitle, button }) {
+export default function Header({ title, subtitle, button, onLogout }) {
     const [currentKatalog, setCurrentKatalog] = useState(false)
     const [currentContacts, setCurrentContacts] = useState(false)
     const [currentBusket, setCurrentBusket] = useState(false)
@@ -70,7 +71,23 @@ export default function Header({ title, subtitle, button }) {
                         </ul>
                         <Search></Search>
                     </div>
-                    {isMobileMenuOpen ? <AiOutlineClose onClick={mobileMenu} className='mobile-menu' /> : <HiMenu onClick={mobileMenu} className='mobile-menu' />}
+                    {isMobileMenuOpen ?
+                        <div>
+                            <div>
+                                <AiOutlineClose onClick={mobileMenu} className='mobile-menu' />
+                                <ul>
+                                    <li><Logout onClick={onLogout} /></li>
+                                </ul>
+                            </div>
+                        </div>
+                        :
+                        <div style={{ display: 'flex', gap: 10 }}>
+                            <HiMenu onClick={mobileMenu} className='mobile-menu' />
+                            <ul>
+                                <li><Logout onClick={onLogout} /></li>
+                            </ul>
+                        </div>
+                    }
                 </nav>
                 {isMobileMenuOpen &&
                     <div className="mobile-menu_open">
@@ -111,8 +128,8 @@ export default function Header({ title, subtitle, button }) {
                                 <Link onClick={() => { setCurrentKatalog(true) }} to={'/katalog'} ><Button value={'Смотреть'} ></Button></Link>
                                 <div className="current-slide">
                                 </div>
-                            </div>              
-                            }
+                            </div>
+                        }
                     </>
                 }
             </header>
@@ -122,6 +139,9 @@ export default function Header({ title, subtitle, button }) {
                 <div className="slider-box"></div>
                 <div className="slider-box"></div>
             </div>
+            <ul>
+                <li><Logout onClick={onLogout} /></li>
+            </ul>
         </div>
     )
 }

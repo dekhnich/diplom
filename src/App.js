@@ -11,10 +11,10 @@ import BusketPage from './pages/BusketPage';
 import Katalog from './pages/Katalog';
 import ItemPage from './pages/ItemPage';
 import NotFound from './pages/NotFound';
-// import LoginPage from './pages/LoginPage';
+import LoginPage from './pages/LoginPage';
 
 function App() {
-  // const [isLoggedIn, setIsLoggedIn] = useState(true);
+  const [isLoggedIn, setIsLoggedIn] = useState(true);
 
   const [title, setTitle] = useState(' ')
   const [subtitle, setSubtitle] = useState('')
@@ -26,13 +26,13 @@ function App() {
     window.scrollTo(0, 0)
   }, [pathname])
 
-  // if (!isLoggedIn) {
-  //   return <LoginPage />
-  // }
+  if (!isLoggedIn) {
+    return <LoginPage onLogin={() => setIsLoggedIn(true)} />
+  }
 
   return (
     <div className="App">
-      <Header title={title} subtitle={subtitle} button={button} />
+      <Header title={title} subtitle={subtitle} button={button} onLogout={() => setIsLoggedIn(false)} />
       <Routes>
         <Route path='/' element={<HomePage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/about' element={<AboutPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
