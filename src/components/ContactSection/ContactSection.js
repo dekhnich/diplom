@@ -13,7 +13,6 @@ export default function ContactSection({ totalSum }) {
 
     const busket = useProducts((state) => state.busket);
 
-
     const [name, setName] = useState('')
     const [telephone, setTelephone] = useState()
     const [email, setEmail] = useState()
@@ -60,6 +59,25 @@ export default function ContactSection({ totalSum }) {
         if (busket.length && name && telephone && email && adress && house && apartaments && entrance && Radio1 && Radio2) {
             handleButtonChange()
             localStorage.setItem('plumbing-basket', JSON.stringify([]))
+
+            
+            localStorage.setItem('bought', JSON.stringify({
+                items: busket,
+                cost: totalSum,
+                radio: Radio1,
+                telephone,
+                name,
+                email,
+                radioDelivery: Radio2,
+                adress,
+                house,
+                apartaments,
+                entrance,
+                message: comment,
+                isLifting: checkbox1,
+                isAnyName: checkbox2
+            }))
+
             clearBusket()
             setPaymentComplete(true)
             setTimeout(() => {

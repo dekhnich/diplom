@@ -14,25 +14,42 @@ import NotFound from './pages/NotFound';
 import LoginPage from './pages/LoginPage';
 
 function App() {
-  const [isLoggedIn, setIsLoggedIn] = useState(true);
+  const [login, setLogin] = useState( JSON.parse(localStorage.getItem('login')) || null );
+  const [isAdmin, setIsAdmin] = useState( localStorage.getItem('admin') );
 
   const [title, setTitle] = useState(' ')
   const [subtitle, setSubtitle] = useState('')
   const [button, setButton] = useState(false)
 
-  const { pathname } = useLocation()
+  const { pathname } = useLocation();
+
+  function onLogin(login) {
+    setLogin(login);
+    localStorage.setItem('login', JSON.stringify(login));
+  }
+
+  function onLogout() {
+    setIsAdmin(false);
+    setLogin(false);
+    localStorage.removeItem('login');
+    localStorage.removeItem('admin');
+  }
 
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [pathname])
 
-  if (!isLoggedIn) {
-    return <LoginPage onLogin={() => setIsLoggedIn(true)} />
+  if (!login) {
+    return <LoginPage onLogin={onLogin} setIsAdmin={setIsAdmin} />
   }
 
   return (
     <div className="App">
-      <Header title={title} subtitle={subtitle} button={button} onLogout={() => setIsLoggedIn(false)} />
+      <div style={{fontSize: 50}}>
+        {isAdmin ? 'Аккаунт администратора' : 'Аккаунт пользователя'}
+        {': ' + login}
+      </div>
+      <Header title={title} subtitle={subtitle} button={button} onLogout={onLogout} />
       <Routes>
         <Route path='/' element={<HomePage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/about' element={<AboutPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
