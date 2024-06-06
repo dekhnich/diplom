@@ -37,7 +37,7 @@ export default function Header({ title, subtitle, button, onLogout, login }) {
         <div style={{ height: isMobileMenuOpen ? '430px' : '' }} className="header-wrapper">
             <header id='header'>
                 <div className="header_top">
-                    <h1>Дом Сантехники</h1>
+                    <h1 style={{color: '#ccc'}}>Blue water</h1>
                     <p><a href="https://wa.me/375298865005">+375 (29) 623 50 05</a> <br /><br /> <a href="https://wa.me/375298865005">+375 (29) 886 50 05</a></p>
                 </div>
                 <nav>
