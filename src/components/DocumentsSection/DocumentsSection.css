@@ -1,0 +1,43 @@
+.documents {
+  width: 100%;
+  max-width: 1202px;
+
+  padding: 120px 50px 116px 50px;
+}
+
+.documents h1 {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-bottom: 51px;
+}
+
+.documents p,
+span {
+  margin-bottom: 19px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+@media (max-width: 600px) {
+  .documents {
+    padding: 50px 20px;
+  }
+
+  .documents h1 {
+    font-size: 15px;
+    margin-bottom: 30px;
+  }
+
+  .documents p,
+  span {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,27 @@
+.image-card {
+  padding: 30px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-card p {
+  width: 132px;
+  color: #f7f8f9;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+@media (max-width: 600px) {
+  .image-card {
+    padding: 10px 20px;
+  }
+
+  .image-card p {
+    width: 40px;
+    font-size: 10px;
+  }
+}

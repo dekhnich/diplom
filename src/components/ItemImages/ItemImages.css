@@ -1,0 +1,33 @@
+.item-images {
+  width: 593px;
+  height: 609px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(1fr, 185px));
+  grid-template-rows: 472px 118px;
+  gap: 19px;
+}
+
+.img-box {
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.first-img {
+  grid-column: 1/4;
+}
+
+.item-images img {
+  max-height: 100%;
+  max-width: 100%;
+  margin: auto;
+}
+
+
+@media (max-width: 600px) {
+  .item-images {
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(1fr, 185px));
+    grid-template-rows: 472px 118px;
+    gap: 9px;
+  }
+}

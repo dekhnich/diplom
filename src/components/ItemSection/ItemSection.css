@@ -1,0 +1,109 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.item {
+  width: 100%;
+  max-width: 1052px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 73px;
+  padding: 77px 0px 146px 0px;
+}
+
+#katalog-title {
+  display: none;
+}
+
+.item-info {
+  height: 610px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.item-info h1 {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.item-info h2 {
+  margin-top: 33px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.item-info .main-info_item {
+  margin-top: 17px;
+  gap: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.item-info button {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.item-info button p {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.slider {
+  display: none;
+  width: 279px;
+  height: 222px;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .item {
+    flex-direction: column;
+    justify-content: start;
+    padding: 50px 20px;
+    gap: 25px;
+  }
+
+  #katalog-title {
+    display: block;
+    color: #2c3035;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    align-self: flex-start;
+  }
+
+  .slider {
+    display: block;
+  }
+
+  .image-gallery-image {
+    border-radius: 10px;
+  }
+}

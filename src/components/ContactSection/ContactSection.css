@@ -1,0 +1,247 @@
+.contact-list {
+  margin-top: 122px;
+  display: grid;
+  grid-template-columns: 429px 415px;
+  grid-template-rows: 256px 263px;
+  column-gap: 192px;
+  row-gap: 70px;
+}
+
+.contacts-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contacts-info_form {
+  display: flex;
+  flex-direction: column;
+  height: 132px;
+  justify-content: space-between;
+}
+
+.contact-list input {
+  padding-left: 15.6px;
+  padding-bottom: 6px;
+  border: none;
+  border-bottom: 0.5px solid #2c3035;
+
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.contact-list input::placeholder {
+  color: #afbcd1;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.contact-list input:active,
+:hover,
+:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+
+.contact-list input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.dilivary-conditions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  padding-bottom: 51px;
+}
+
+.adress-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.adress-info h1 {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.adress-info .adress-info_form {
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.adress-info .adress-info_form .address-home {
+  display: flex;
+  justify-content: space-between;
+}
+
+.adress-info .adress-info_form .address-home input {
+  width: 100px;
+}
+
+.adress-info .adress-info_form textarea {
+  margin: 0;
+}
+
+.dilivary-info {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.dilivary-info h1 {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.dilivary-info div {
+  display: flex;
+  flex-direction: column;
+  height: 20%;
+  justify-content: space-between;
+
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.dilivary-info div input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+
+.custom-checkbox+label {
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+}
+
+.custom-checkbox+label::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  flex-grow: 0;
+  border: 1px solid #30496f;
+  border-radius: 0.25em;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% 50%;
+}
+
+.custom-checkbox:checked+label::before {
+  border-color: #30496f;
+  background-color: #30496f;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+}
+
+.custom-checkbox:not(:disabled):not(:checked)+label:hover::before {
+  border-color: #b3d7ff;
+}
+
+.custom-checkbox:not(:disabled):active+label::before {
+  background-color: #b3d7ff;
+  border-color: #b3d7ff;
+}
+
+.custom-checkbox:focus+label::before {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.custom-checkbox:focus:not(:checked)+label::before {
+  border-color: #80bdff;
+}
+
+.custom-checkbox:disabled+label::before {
+  background-color: #e9ecef;
+}
+
+.payment {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.payment .payment-title {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.completeOrder {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  padding: 10px;
+  background-color: rgba(24, 144, 24, 0.697);
+  color: white;
+  border-radius: 15px;
+  text-align: center;
+
+  animation: paymentcomplete 1s;
+}
+
+@keyframes paymentcomplete {
+  0% {
+    top: -5%;
+  }
+
+  100% {
+    top: 10%;
+  }
+}
+
+@media (max-width: 600px) {
+  .contact-list {
+    margin-top: 45px;
+    grid-template-columns: 280.247px;
+    grid-template-rows: 280px 300px 248px 123px;
+    column-gap: 0;
+    row-gap: 40px;
+  }
+
+  .dilivary-conditions {
+    padding: 0;
+  }
+
+  .adress-info {
+    padding-top: 20px;
+  }
+
+  .adress-info .adress-info_form .address-home input {
+    padding-left: 3px;
+    width: 73px;
+  }
+}

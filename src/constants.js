@@ -1,0 +1,1 @@
+export const url = 'https://api.dom-santehniki.by/auth'

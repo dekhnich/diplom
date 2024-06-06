@@ -1,0 +1,99 @@
+.busket-list {
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.busket-list_title {
+  width: 100%;
+
+  display: flex;
+  justify-content: flex-start;
+
+  margin-bottom: 70px;
+
+  color: #000;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+#busket-title_mobile {
+  display: none;
+}
+
+.busket-list_items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 43px;
+}
+
+.list_items-total {
+  width: 100%;
+  max-width: 1015px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list_items-total button {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+@media (max-width: 600px) {
+  .busket-list {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .busket-list_title {
+    display: none;
+  }
+
+  #busket-title_mobile {
+    align-self: flex-start;
+    margin-bottom: 40px;
+    display: block;
+    color: #2c3035;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
+
+  .busket-list_items {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 43px;
+  }
+
+  .list_items-total {
+    width: 100%;
+    max-width: 1015px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .list_items-total button {
+    color: #2c3035;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+}

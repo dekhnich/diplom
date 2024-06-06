@@ -1,0 +1,123 @@
+.map {
+  width: 100%;
+  max-width: 1202px;
+  height: 640px;
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.map h1 {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-left: 52px;
+}
+
+.map-content {
+  width: 100%;
+  height: 521px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.map-div {
+  width: 962px;
+  height: 100%;
+}
+
+.contacts-div {
+  width: 142px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 50px;
+}
+
+.contacts-div .contacts-card {
+  width: 142px;
+  height: 153px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contacts-div .contacts-card h2 {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.contacts-div .contacts-card p {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.contacts-card button {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+@media (max-width: 600px) {
+  .map {
+    padding: 30px 20px 50px 20px;
+    height: 541px;
+    margin-top: 0px;
+  }
+
+  .map h1 {
+    font-size: 20px;
+    margin-left: 0px;
+  }
+
+  .map-content {
+    margin-top: 22px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .map .map-content .map-div {
+    width: 100%;
+    height: 198px;
+  }
+
+  .contacts-div {
+    width: 142px;
+    height: 274px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+
+  .contacts-div .contacts-card {
+    width: 142px;
+    height: 117px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .contacts-div .contacts-card h2 {
+    font-size: 14px;
+  }
+}

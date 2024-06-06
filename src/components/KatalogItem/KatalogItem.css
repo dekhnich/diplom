@@ -1,0 +1,99 @@
+.katalog-item {
+  width: 246px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 47px;
+  border-bottom: 1px solid #afbcd1;
+}
+
+.image-box {
+  width: 246px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-box_back {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 246px;
+  height: 200px;
+}
+
+
+.katalog-item .image-box img {
+  max-width: 246px;
+  max-height: 200px;
+  border-radius: 10px;
+  position: absolute;
+  z-index: 100;
+  object-fit: cover;
+}
+
+.katalog-item h3 {
+  margin-top: 21px;
+
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.katalog-item .katalog-item_price {
+  margin-top: 48px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.katalog-item .katalog-item_price p {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.katalog-item .katalog-item_price button {
+  display: flex;
+  align-items: center;
+}
+
+.katalog-item .katalog-item_price button p {
+  color: #2c3035;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+@media (max-width: 600px) {
+  .katalog-item {
+    width: 282px;
+  }
+
+  .katalog-item img {
+    height: 100%;
+  }
+
+  .image-box_back {
+    width: 282px;
+    height: 200px;
+  }
+
+  .image-box {
+    width: 282px;
+    height: 200px;
+  }
+
+  .katalog-item .image-box img {
+    max-height: 200px;
+    max-width: 282px;
+  }
+}
