@@ -8,7 +8,7 @@ import { useProducts } from '../../store/useProducts';
 import Search from '../Search/Search'
 import Logout from '../Logout';
 
-export default function Header({ title, subtitle, button, onLogout }) {
+export default function Header({ title, subtitle, button, onLogout, login }) {
     const [currentKatalog, setCurrentKatalog] = useState(false)
     const [currentContacts, setCurrentContacts] = useState(false)
     const [currentBusket, setCurrentBusket] = useState(false)
@@ -75,7 +75,8 @@ export default function Header({ title, subtitle, button, onLogout }) {
                         <div>
                             <div>
                                 <AiOutlineClose onClick={mobileMenu} className='mobile-menu' />
-                                <ul>
+                                <ul style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                                    <li style={{ color: 'red', borderBottom: '1px solid blue', padding: '0 5px 0 5px' }}>{login}</li>
                                     <li><Logout onClick={onLogout} /></li>
                                 </ul>
                             </div>
@@ -83,7 +84,8 @@ export default function Header({ title, subtitle, button, onLogout }) {
                         :
                         <div style={{ display: 'flex', gap: 10 }}>
                             <HiMenu onClick={mobileMenu} className='mobile-menu' />
-                            <ul>
+                            <ul style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                                <li style={{ color: 'red', borderBottom: '1px solid blue', padding: '0 5px 0 5px' }}>{login}</li>
                                 <li><Logout onClick={onLogout} /></li>
                             </ul>
                         </div>

@@ -60,8 +60,9 @@ export default function ContactSection({ totalSum }) {
             handleButtonChange()
             localStorage.setItem('plumbing-basket', JSON.stringify([]))
 
-            
-            localStorage.setItem('bought', JSON.stringify({
+            const boughts = JSON.parse(localStorage.getItem('boughts')) || [];
+            boughts.push({
+                user: JSON.parse(localStorage.getItem('login')),
                 items: busket,
                 cost: totalSum,
                 radio: Radio1,
@@ -76,7 +77,8 @@ export default function ContactSection({ totalSum }) {
                 message: comment,
                 isLifting: checkbox1,
                 isAnyName: checkbox2
-            }))
+            });
+            localStorage.setItem('boughts', JSON.stringify(boughts));
 
             clearBusket()
             setPaymentComplete(true)
