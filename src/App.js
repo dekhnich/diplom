@@ -12,7 +12,6 @@ import Katalog from './pages/Katalog';
 import ItemPage from './pages/ItemPage';
 import NotFound from './pages/NotFound';
 import LoginPage from './pages/LoginPage';
-import AdminPanel from './components/AdminPanel'
 
 function App() {
   const [login, setLogin] = useState( JSON.parse(localStorage.getItem('login')) || null );
@@ -52,11 +51,7 @@ function App() {
         <Route path='/about' element={<AboutPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/documents' element={<DocumentsPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/contacts' element={<ContactsPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
-        <Route path='/busket' element={
-          isAdmin
-          ? <AdminPanel />
-          : <BusketPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />
-        } />
+        <Route path='/busket' element={<BusketPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} isAdmin={isAdmin} />} />
         <Route path='/katalog' element={<Katalog setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/item/:id' element={<ItemPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/404' element={<NotFound setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
