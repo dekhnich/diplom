@@ -17,7 +17,7 @@ export default function index() {
                         <Item key={item.user} item={item} onDelete={() => setDataCount(count => count - 1)} />
                     ))}
                 </div>
-                {!dataCount && <div>Заказов нет</div>}
+                {!dataCount && <div style={{textAlign: 'center'}}>Заказов нет</div>}
             </div>
         </div>
     )

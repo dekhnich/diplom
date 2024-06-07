@@ -36,13 +36,12 @@ export default function Header({ title, subtitle, button, onLogout, login }) {
     return (
         <div style={{ height: isMobileMenuOpen ? '430px' : '' }} className="header-wrapper">
             <header id='header'>
-                <div className="header_top">
-                    <h1 style={{color: '#ccc'}}>Blue water</h1>
-                    <p><a href="https://wa.me/375298865005">+375 (29) 623 50 05</a> <br /><br /> <a href="https://wa.me/375298865005">+375 (29) 886 50 05</a></p>
-                </div>
+
                 <nav>
                     <Link to={'/'}>
-                        <img onClick={onClick} src="./assets/icon_logo_200x123.png" alt="" />
+                        <div onClick={onClick} className="header_top">
+                            <h1 style={{ color: '#777' }}>Blue water</h1>
+                        </div>
                     </Link>
                     <div className="nav-right">
                         <ul>
