@@ -55,7 +55,7 @@ function App() {
         <Route path='/katalog' element={<Katalog setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/item/:id' element={<ItemPage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
         <Route path='/404' element={<NotFound setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
-        <Route path='*' element={<NotFound setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
+        <Route path='*' element={<HomePage setTitle={setTitle} setSubtitle={setSubtitle} setButton={setButton} />} />
       </Routes>
 
       <Footer />
