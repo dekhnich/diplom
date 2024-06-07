@@ -17,7 +17,7 @@ export default function Category() {
                         category={'Душевые кабины и ограждения'}
                         text={'Смесители и душ'}
                         position={'flex-start'}
-                        img={'./assets/groupcardtwo.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardtwo.svg'}
                         row={'1/3'}
                         col={'1/2'}
                     />
@@ -25,13 +25,13 @@ export default function Category() {
                         category={''}
                         text={'Плитка'}
                         position={'flex-end'}
-                        img={'./assets/groupcardthgree.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardthgree.svg'}
                     />
                     <ImageCard
                         category={'Полотенцесушители'}
                         text={'Полотенце сушители'}
                         position={'flex-end'}
-                        img={'./assets/groupcardfour.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardfour.svg'}
                         row={'1/3'}
                         col={'3/4'}
                     />
@@ -39,19 +39,19 @@ export default function Category() {
                         category={'Ванны и комплектующие'}
                         text={'Ванны и комплектующие'}
                         position={'flex-end'}
-                        img={'./assets/groupcardsixc.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardsixc.svg'}
                     />
                     <ImageCard
                         category={'Унитазы и биде'}
                         text={'Унитазы и бидэ'}
                         position={'flex-start'}
-                        img={'./assets/groupcardfive.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardfive.svg'}
                     />
                     <ImageCard
                         category={''}
                         text={'Раковины и столешницы'}
                         position={'flex-end'}
-                        img={'./assets/groupcardone.svg'}
+                        img={'https://dom-santehniki.by/assets/groupcardone.svg'}
                         row={'3/4'}
                         col={'2/4'}
                     />
@@ -62,20 +62,20 @@ export default function Category() {
                             category={'Душевые кабины и ограждения'}
                             position={'flex-start'}
                             text={'Душевые кабины и ограждения'}
-                            img={'./assets/group-open-two.png'}
+                            img={'https://dom-santehniki.by/assets/group-open-two.png'}
                             row={'1/3'}
                         />
                         <ImageCard
                             category={''}
                             position={'flex-end'}
                             text={'Мебель для ванной'}
-                            img={'./assets/group-open-five.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-five.svg'}
                         />
                         <ImageCard
                             category={''}
                             position={'flex-end'}
                             text={'Для общественных мест'}
-                            img={'./assets/group-open-three.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-three.svg'}
                             row={'1/3'}
                             col={'3/4'}
                         />
@@ -83,17 +83,17 @@ export default function Category() {
                             category={''}
                             position={'flex-end'}
                             text={'Водонагреватели'}
-                            img={'./assets/group-open-four.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-four.svg'}
                         />
                         <ImageCard
                             position={'flex-start'}
                             text={'Аксесуары'}
-                            img={'./assets/group-open-one.png'}
+                            img={'https://dom-santehniki.by/assets/group-open-one.png'}
                         />
                         <ImageCard
                             position={'flex-end'}
                             text={'Кухонные мойки и фильтры'}
-                            img={'./assets/group-open-eight.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-eight.svg'}
                             col={'2/4'}
                             row={'3/5'}
                         />
@@ -101,13 +101,13 @@ export default function Category() {
                             category={'Полотенцесушители'}
                             position={'flex-start'}
                             text={'Отопление и климпт'}
-                            img={'./assets/group-open-seven.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-seven.svg'}
                         />
                         <ImageCard
                             category={'Ванны и комплектующие'}
                             position={'flex-end'}
                             text='Инсталляции, кнопки смыва'
-                            img={'assets/group-open-six.svg'}
+                            img={'https://dom-santehniki.by/assets/group-open-six.svg'}
                             col={'2/4'}
                             row={'4/5'}
                         />
