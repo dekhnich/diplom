@@ -1,8 +1,8 @@
 export default function PanelItems({ items }) {
     return (
-        <div style={{display: 'flex', gap: 20, overflow: 'auto', paddingBottom: 10}}>
+        <div style={{display: 'flex', gap: 20, overflow: 'auto', paddingBottom: 10, flex: '1 0 auto'}}>
             {items.map((item) => 
-                <div key={item._id} style={{flex: '1 0 90%', padding: 10, boxSizing: 'border-box', boxShadow: 'inset 0 0 10px 1px black'}}>
+                <div key={item._id} style={{flex: '1 0 90%', padding: 10, boxSizing: 'border-box', border: '1px solid #aaa', borderRadius: 15, }}>
                     <img style={{objectFit: 'contain', objectPosition: 'center'}} width="200" height="200" src={item.images[0]} alt="item image" />
                     <ItemInfo name="Наименование" value={item.title} />
                     <ItemInfo name="Тип" value={item.type} />

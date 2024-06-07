@@ -1,33 +1,49 @@
 import PanelItem from '../PanelItem';
 import PanelItemInfo from '../PanelItemInfo';
 import PanelItems from '../PanelItems';
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 
 export default function index() {
     const data = JSON.parse(localStorage.getItem('boughts'));
+    const [dataCount, setDataCount] = useState(data.length);
 
     return (
-        <div style={{ margin: '0 auto', maxWidth: 900, padding: 15 }}>
-            <h1 style={{ textAlign: 'center', marginBottom: 30 }}>Панель администратора</h1>
+        <div style={{background: '#f9f9f9', width: '100%'}}>
+            <div style={{ margin: '0 auto', maxWidth: 900, padding: 15 }}>
+                <h1 style={{ textAlign: 'center', marginBottom: 30 }}>Панель администратора</h1>
 
-            <div style={{ display: 'flex', gap: 30, flexWrap: 'wrap', justifyContent: 'center' }}>
-                {data.map(item => (
-                    <Item key={item.user} item={item} />
-                ))}
+                <div style={{ display: 'flex', gap: 30, flexWrap: 'wrap', justifyContent: 'center' }}>
+                    {data.map(item => (
+                        <Item key={item.user} item={item} onDelete={() => setDataCount(count => count - 1)} />
+                    ))}
+                </div>
+                {!dataCount && <div>Заказов нет</div>}
             </div>
         </div>
     )
 };
 
-function Item({ item }) {
+const buttonStyles = {
+    padding: '10px 25px',
+    borderRadius: '5px',
+    background: '#afbcd1',
+    color: '#000',
+    border: 'none',
+    cursor: 'pointer',
+    fontWeight: 700,
+    marginTop: '20px',
+};
+
+function Item({ item, onDelete }) {
     const elem = useRef(null);
 
     function onRemove(e) {
         elem.current.remove();
+        onDelete();
     }
 
     return (
-        <div ref={elem} style={{ position: 'relative', width: 320, border: '1px solid black', padding: '10px 10px 30px 10px' }}>
+        <div ref={elem} style={{ display: 'flex', flexDirection: 'column', width: 320, background: '#fff', border: '1px solid #aaa', borderRadius: 15, padding: '20px 20px 30px 20px' }}>
             <PanelItemInfo info={`Заказ пользователя ${item.user}`} />
             <div>
                 <PanelItem name="Телефон" value={item.telephone} />
@@ -41,11 +57,7 @@ function Item({ item }) {
             </div>
             <PanelItemInfo info='Товары:' />
             <PanelItems items={item.items} />
-            <button onClick={onRemove} style={{ position: 'absolute', bottom: 0, right: 0, border: 'none', padding: 5, cursor: 'pointer', background: '#333', color: "#fff" }}>Скрыть</button>
-
-            {/* <div>??Apartments: {item.apartments}</div>
-    <div>??isAnyName: {item.isAnyName}</div>
-    <div>??isLifting: {item.isLifting}</div> */}
+            <button onClick={onRemove} style={buttonStyles}>Скрыть</button>
         </div>
     )
 }

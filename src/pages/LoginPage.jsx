@@ -11,6 +11,17 @@ const styles = {
     placeItems: 'center'
 }
 
+const buttonStyles = {
+    padding: '10px 25px',
+    borderRadius: '5px',
+    background: '#afbcd1',
+    color: '#000',
+    border: 'none',
+    cursor: 'pointer',
+    fontWeight: 700,
+    marginTop: '20px',
+};
+
 const designColor = '#6e6ea4';
 
 export default function LoginPage({ onLogin, setIsAdmin }) {
@@ -45,10 +56,10 @@ export default function LoginPage({ onLogin, setIsAdmin }) {
                 </div>
 
                 <form onSubmit={handleSubmit} onClick={() => setError('')} style={{ display: 'flex', flexDirection: 'column', marginTop: 30 }}>
-                    <input required value={loginInput} onChange={e => setLoginInput(e.target.value)} style={{ width: '100%', height: 30 }} type="text" />
-                    <input required value={passwordInput} onChange={e => setPasswordInput(e.target.value)} style={{ width: '100%', height: 30, marginTop: 10 }} type="password" />
+                    <input required value={loginInput} onChange={e => setLoginInput(e.target.value)} style={{ width: '100%', height: 30, padding: '0 10px' }} type="text" />
+                    <input required value={passwordInput} onChange={e => setPasswordInput(e.target.value)} style={{ width: '100%', height: 30, marginTop: 10, padding: '0 10px' }} type="password" />
 
-                    <button style={{ height: 40, marginTop: 30, background: designColor, color: '#fff', border: 'none', cursor: 'pointer', borderRadius: 3 }}>
+                    <button style={buttonStyles}>
                         {isRegister ? 'Зарегистрироваться' : 'Войти'}
                     </button>
                 </form>
