@@ -4,10 +4,10 @@ import PanelItems from '../PanelItems';
 import { useRef, useState } from 'react';
 
 export default function index() {
-    const data = JSON.parse(localStorage.getItem('boughts'));
+    const data = JSON.parse(localStorage.getItem('boughts')) || [];
     const [dataCount, setDataCount] = useState(data.length);
     
-    const messages = JSON.parse(localStorage.getItem('messages'));
+    const messages = JSON.parse(localStorage.getItem('messages')) || [];
     const [messageCount, setMessageCount] = useState(messages.length);
 
     return (
