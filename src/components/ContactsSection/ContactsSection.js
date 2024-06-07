@@ -25,19 +25,15 @@ export default function ContactsSection() {
     }, [])
 
     const onClick = () => {
-        fetch(url + '/sendAppeal', {
-            method: "POST",
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                name,
-                telephone,
-                email,
-                message
-            }),
-        })
+        const messages = JSON.parse(localStorage.getItem('messages')) || [];
+        messages.push({                
+            name,
+            telephone,
+            email,
+            message,
+            user: JSON.parse(localStorage.getItem('login')),
+        });
+        localStorage.setItem('messages', JSON.stringify(messages) );
     }
 
     return (
@@ -57,10 +53,10 @@ export default function ContactsSection() {
                 <div className="contacts-form_right">
                     <h1>Сообщение</h1>
                     <form className="contacts-submit_form">
-                        <input onChange={(e) => { setName(e.target.value) }} placeholder='Имя и фамилия' type="text" name="name" id="name-surname" />
-                        <input onChange={(e) => { setTelephone(e.target.value) }} placeholder='Телефон' type="number" name="telephone" id="phone" />
-                        <input onChange={(e) => { setEmail(e.target.value) }} placeholder='Email' type="email" name="email" id="email" />
-                        <textarea onChange={(e) => { setMessage(e.target.value) }} style={{ marginBottom: '16px' }} placeholder='Сообщение' name="message" id="comment" cols="30" rows="4"></textarea>
+                        <input style={{padding: 10}} onChange={(e) => { setName(e.target.value) }} placeholder='Имя и фамилия' type="text" name="name" id="name-surname" />
+                        <input style={{padding: 10}} onChange={(e) => { setTelephone(e.target.value) }} placeholder='Телефон' type="number" name="telephone" id="phone" />
+                        <input style={{padding: 10}} onChange={(e) => { setEmail(e.target.value) }} placeholder='Email' type="email" name="email" id="email" />
+                        <textarea onChange={(e) => { setMessage(e.target.value) }} style={{ marginBottom: '16px', padding: 10 }} placeholder='Сообщение' name="message" id="comment" cols="30" rows="4"></textarea>
                     </form>
                     <Button
                         disabled={isDisabled}

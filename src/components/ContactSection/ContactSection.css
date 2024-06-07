@@ -226,7 +226,7 @@ input::-webkit-inner-spin-button {
 @media (max-width: 600px) {
   .contact-list {
     margin-top: 45px;
-    grid-template-columns: 280.247px;
+    grid-template-columns: 320px;
     grid-template-rows: 280px 300px 248px 123px;
     column-gap: 0;
     row-gap: 40px;

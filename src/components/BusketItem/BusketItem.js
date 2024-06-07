@@ -27,7 +27,7 @@ export default function BusketItem({ id, img, color, price, title, count, item }
     <div className="busket-item">
       <Link to={`/item/${id}`}>
         <div className="busket-item_img">
-          <img src={img} alt="" />
+          <img src={img} alt="" style={{width: 160, height: 100, objectFit: 'contain'}} />
         </div>
       </Link>
       <div className="busket-item_title">
