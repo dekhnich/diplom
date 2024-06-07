@@ -24,10 +24,10 @@ export default function KatalogItem({ item }) {
                     style={{
                         background: `url(${item.images[0]}) center`,
                         backgroundPosition: 'center',
+                        borderRadius: 15
                     }}
                     className="image-box">
-                    <div className="image-box_back"></div>
-                    <img src={item.images[0]} alt="" />
+                    <div className="image-box_back" style={{background: 'transparent', border: '2px solid #ccc', borderRadius: 15}}></div>
                 </div>
                 <h3>{item.title}</h3>
             </Link>
