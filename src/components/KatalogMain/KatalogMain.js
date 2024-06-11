@@ -71,7 +71,7 @@ export default function KatalogMain() {
         setValues([MIN, MAX])
         if (currentBrand) {
             (async () => {
-                const newProducts = await findProduct({ brend: currentBrand })
+                const newProducts = await findProduct({ brend: currentBrand, category: currentCategory })
                 setShownProducts(newProducts.products)
                 setTotalPage(newProducts.totalPages)
                 setValueFilteredProducts(newProducts.products)
@@ -87,7 +87,7 @@ export default function KatalogMain() {
         
         if (currentCategory) {
             (async () => {
-                const newProducts = await findProduct({ category: currentCategory })
+                const newProducts = await findProduct({ category: currentCategory, brend: currentBrand })
                 setShownProducts(newProducts.products)
                 setTotalPage(newProducts.totalPages)
                 setValueFilteredProducts(newProducts.products)
@@ -222,10 +222,7 @@ export default function KatalogMain() {
 
                             <div>Фильтр по брендам</div>
                             <SelectBrand onChange={value => setCurrentBrand(value)} />
-                            <button style={buttonStyles} onClick={() => {
-                                console.log('set bran to all')
-                                setCurrentCategory('all')
-                            }}>Показать все</button>
+                            <button style={buttonStyles} onClick={() => setCurrentBrand('all')}>Показать все</button>
                         </div>
                         {/* <div className="filter-type">
                             <span onClick={() => { setIsOpenPlumbFilter(!isOpenPlumbFilter) }} >Сантехника
