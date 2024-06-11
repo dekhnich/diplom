@@ -1,10 +1,32 @@
 import { url } from "../constants";
+
+const productsObj = require('../json/products.json');
 export default async function findProduct(object) {
     let data = null
+
+    const products = productsObj.products;
     try {
         console.log(object)
-        const res = await fetch(url + `/findProducts?${object.category ? 'category=' + object.category + '&' : ''}${object.subcategory ? 'subcategory=' + object.subcategory + '&' : ''}${object.type ? 'type=' + object.type + '&' : ''}${object.title ? 'title=' + object.title + '&' : ''}${object.brend ? 'brend=' + object.brend + '&' : ''}${object.description ? 'description=' + object.description + '&' : ''}${object.page ? 'page=' + object.page + '&' : ''}${object.sort ? 'sort=' + object.sort + '&' : ''}`)
-        data = await res.json()
+        let result;
+        if ('category' in object) {
+            result = object.category === 'all' ? products : products.filter(product => product.category === object.category);
+            if (result) {
+                data = {
+                    products: result,
+                    totalPages: 1,
+                }
+            }
+        } else if ('brend' in object) {
+            result = object.brend === 'all' ? products : products.filter(product => product.brend === object.brend);
+            if (result) {
+                data = {
+                    products: result,
+                    totalPages: 1,
+                }
+            }
+        }
+        // const res = await fetch(url + `/findProducts?${object.category ? 'category=' + object.category + '&' : ''}${object.subcategory ? 'subcategory=' + object.subcategory + '&' : ''}${object.type ? 'type=' + object.type + '&' : ''}${object.title ? 'title=' + object.title + '&' : ''}${object.brend ? 'brend=' + object.brend + '&' : ''}${object.description ? 'description=' + object.description + '&' : ''}${object.page ? 'page=' + object.page + '&' : ''}${object.sort ? 'sort=' + object.sort + '&' : ''}`)
+        // data = await res.json()
     } catch (error) {
         if (error instanceof SyntaxError) {
             console.log('There was a SyntaxError', error);

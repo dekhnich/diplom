@@ -24,10 +24,15 @@ export const useProducts = create((set) => ({
   },
   product: {},
   getProductById: async (id) => {
-    let data = null
+    // let data = null
+    let newProduct;
     try {
-      const res = await fetch(url + `/getOneProducts?id=${id}`)
-      data = await res.json()
+      console.log('data.products', data.products)
+      newProduct = data.products.filter(product => product.article === id)[0]
+      console.log({data})
+      // const res = await fetch(url + `/getOneProducts?id=${id}`)
+      // data = await res.json()
+      // console.log(data)
     } catch (error) {
       if (error instanceof SyntaxError) {
         console.log('There was a SyntaxError', error);
@@ -35,7 +40,7 @@ export const useProducts = create((set) => ({
         console.log('There was an error', error);
       }
     }
-    const newProduct = data.shift();
+    // const newProduct = data.shift();
     set((state) => ({ product: newProduct }));
   },
   busket: JSON.parse(localStorage.getItem('plumbing-basket')) || [],

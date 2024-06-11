@@ -15,6 +15,8 @@ import { IoIosArrowForward } from "react-icons/io";
 import { IoIosArrowDown } from "react-icons/io";
 import { IoIosArrowUp } from "react-icons/io";
 import FilterSearch from '../FilterSearch/FilterSearch';
+import SelectCategory from '../SelectCategory';
+import SelectBrand from '../SelectBrand';
 
 const MIN = 100
 const MAX = 10000
@@ -52,8 +54,8 @@ export default function KatalogMain() {
     const [currentType, setCurrentType] = useState('')
     const [currentCategory, setCurrentCategory] = useState('')
 
-
-    const totalPages = useProducts((state) => state.totalPages)
+    // const totalPages = useProducts((state) => state.totalPages)
+    const totalPages = 1
 
     const handlePageClick = (event) => {
         (async () => {
@@ -82,6 +84,7 @@ export default function KatalogMain() {
     useEffect(() => {
         setValues([MIN, MAX])
         setShownProducts([])
+        
         if (currentCategory) {
             (async () => {
                 const newProducts = await findProduct({ category: currentCategory })
@@ -177,6 +180,16 @@ export default function KatalogMain() {
         }
     }, [])
 
+    const buttonStyles = {
+        padding: '10px 25px',
+        borderRadius: '5px',
+        background: '#afbcd1',
+        color: '#000',
+        border: 'none',
+        cursor: 'pointer',
+        fontWeight: 700,
+    };
+
     return (
         <div className="katalog-main" ref={scrollToThis}>
             <h1>Категории товаров</h1>
@@ -203,6 +216,18 @@ export default function KatalogMain() {
                 <div className="katalog-filter">
                     <div className="filter-list">
                         <div className="filter-type">
+                            <div>Фильтр по категориям</div>
+                            <SelectCategory onChange={value => setCurrentCategory(value)} />
+                            <button style={buttonStyles} onClick={() => setCurrentCategory('all')}>Показать все</button>
+
+                            <div>Фильтр по брендам</div>
+                            <SelectBrand onChange={value => setCurrentBrand(value)} />
+                            <button style={buttonStyles} onClick={() => {
+                                console.log('set bran to all')
+                                setCurrentCategory('all')
+                            }}>Показать все</button>
+                        </div>
+                        {/* <div className="filter-type">
                             <span onClick={() => { setIsOpenPlumbFilter(!isOpenPlumbFilter) }} >Сантехника
                                 <svg style={{ transform: `rotate(${isOpenPlumbFilter ? '-180deg' : '0deg'})`, transitionDuration: '0.2s' }} xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
                                     <path d="M1 1.07251L5.15472 4.88384C5.5617 5.25718 6.22848 5.26492 6.64401 4.90112L10.8988 1.17609" stroke="#2C3035" />
@@ -210,10 +235,10 @@ export default function KatalogMain() {
                             </span>
                             {isOpenPlumbFilter &&
                                 <>
-                                    {/* <FilterSearch
+                                    {<FilterSearch
                                         searchArr={category}
                                         setSearchArr={setShownCategory}
-                                    /> */}
+                                    />}
                                     <ul className="plumg-filter">
                                         <li className='filter-select' onClick={() => setCurrentCategory()}>Все</li>
                                         {shownCategory?.map((el, index) => {
@@ -226,8 +251,8 @@ export default function KatalogMain() {
                                     </ul>
                                 </>
                             }
-                        </div>
-                        <div className="filter-type">
+                        </div> */}
+                        {/* <div className="filter-type">
                             <span
                                 onClick={() => { setIsOpenBrendFilter(!isOpenBrendFilter) }}
                             >Бренд <svg style={{ transform: `rotate(${isOpenBrendFilter ? '-180deg' : '0deg'})`, transitionDuration: '0.2s' }} xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
@@ -235,10 +260,10 @@ export default function KatalogMain() {
                                 </svg></span>
                             {isOpenBrendFilter &&
                                 <>
-                                    {/* <FilterSearch
+                                    <FilterSearch
                                         searchArr={brands}
                                         setSearchArr={setShownBrands}
-                                    /> */}
+                                    />
 
                                     <ul className="brend-filter">
                                         <li className='filter-select' onClick={() => setCurrentBrand()}>Все</li>
@@ -252,8 +277,8 @@ export default function KatalogMain() {
                                     </ul>
                                 </>
                             }
-                        </div>
-                        <div className="filter-type">
+                        </div> */}
+                        {/* <div className="filter-type">
                             <span
                                 onClick={() => { setIsOpenTypeFilter(!isOpenTypeFilter) }}
                             >Тип <svg style={{ transform: `rotate(${isOpenTypeFilter ? '-180deg' : '0deg'})`, transitionDuration: '0.2s' }} xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
@@ -261,10 +286,10 @@ export default function KatalogMain() {
                                 </svg></span>
                             {isOpenTypeFilter &&
                                 <>
-                                    {/* <FilterSearch
+                                    <FilterSearch
                                         searchArr={types}
                                         setSearchArr={setShownTypes}
-                                    /> */}
+                                    />
                                     <ul className="type-filter">
                                         <li className='filter-select' onClick={() => setCurrentType()}>Все</li>
 
@@ -276,7 +301,7 @@ export default function KatalogMain() {
                                     </ul>
                                 </>
                             }
-                        </div>
+                        </div> */}
                         {/* <div className="filter-type">
                             <span
                                 onClick={() => { setIsOpenPriceFilter(!isOpenPriceFilter) }}

@@ -7,7 +7,6 @@ export default function KatalogItem({ item }) {
     const addItemBusket = useProducts((state) => state.addItemBusket)
     const addTotalSum = useProducts((state) => state.addTotalSum)
     const busket = useProducts((state) => state.busket)
-
     let disabled = Boolean(busket.find((element) => element.article === item.article))
 
     const onClick = () => {
