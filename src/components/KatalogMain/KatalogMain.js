@@ -183,7 +183,7 @@ export default function KatalogMain() {
             <div className="mobile-filter_button">
                 <Button onClick={() => { setMobileFilter(!mobileFilter) }} id="mobile-filter_button" value={'Фильтры'} backgroundColor={'#AFBCD1'} color={'#2C3035'} />
             </div>
-            <p onClick={() => {
+            {/* <p onClick={() => {
                 if (priceQueue === 'desc') {
                     setPriceQueue('asc')
                 } else {
@@ -198,7 +198,7 @@ export default function KatalogMain() {
                         <IoIosArrowDown />
                     )}
 
-            </p>
+            </p> */}
             <div className="katalog-content">
                 <div className="katalog-filter">
                     <div className="filter-list">
@@ -210,10 +210,10 @@ export default function KatalogMain() {
                             </span>
                             {isOpenPlumbFilter &&
                                 <>
-                                    <FilterSearch
+                                    {/* <FilterSearch
                                         searchArr={category}
                                         setSearchArr={setShownCategory}
-                                    />
+                                    /> */}
                                     <ul className="plumg-filter">
                                         <li className='filter-select' onClick={() => setCurrentCategory()}>Все</li>
                                         {shownCategory?.map((el, index) => {
@@ -235,10 +235,10 @@ export default function KatalogMain() {
                                 </svg></span>
                             {isOpenBrendFilter &&
                                 <>
-                                    <FilterSearch
+                                    {/* <FilterSearch
                                         searchArr={brands}
                                         setSearchArr={setShownBrands}
-                                    />
+                                    /> */}
 
                                     <ul className="brend-filter">
                                         <li className='filter-select' onClick={() => setCurrentBrand()}>Все</li>
@@ -261,10 +261,10 @@ export default function KatalogMain() {
                                 </svg></span>
                             {isOpenTypeFilter &&
                                 <>
-                                    <FilterSearch
+                                    {/* <FilterSearch
                                         searchArr={types}
                                         setSearchArr={setShownTypes}
-                                    />
+                                    /> */}
                                     <ul className="type-filter">
                                         <li className='filter-select' onClick={() => setCurrentType()}>Все</li>
 
@@ -277,7 +277,7 @@ export default function KatalogMain() {
                                 </>
                             }
                         </div>
-                        <div className="filter-type">
+                        {/* <div className="filter-type">
                             <span
                                 onClick={() => { setIsOpenPriceFilter(!isOpenPriceFilter) }}
                             >Цена <svg style={{ transform: `rotate(${isOpenPriceFilter ? '-180deg' : '0deg'})`, transitionDuration: '0.2s' }} xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
@@ -297,7 +297,7 @@ export default function KatalogMain() {
                                     </div>
                                 </>
                             }
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 {mobileFilter &&
