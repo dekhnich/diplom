@@ -9,8 +9,12 @@ export default async function findProduct(object) {
         console.log(object)
         let result;
 
-        result = object.category === 'all' || object.category === '' ? products : products.filter(product => product.category === object.category);
-        result = object.brend === 'all' || object.brend === '' ? result : result.filter(product => product.brend === object.brend);
+        if (object.title) {
+            result = object.title === '' ? products : products.filter(product => product.title.toLowerCase().includes(object.title.toLowerCase()));
+        } else {
+            result = object.category === 'all' || object.category === '' ? products : products.filter(product => product.category === object.category);
+            result = object.brend === 'all' || object.brend === '' ? result : result.filter(product => product.brend === object.brend);
+        }
 
         if (result) {
             data = {
