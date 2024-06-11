@@ -1,0 +1,843 @@
+{
+    "products": [
+        {
+            "_id": "658f2cc9061751740d8a8666",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Lavinia Boho Biore напольное 36,5x56 33040050",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/58460-695897.jpg",
+                "https://api.dom-santehniki.by/storage/images/58460-350649.jpg",
+                "https://api.dom-santehniki.by/storage/images/58460-381701.jpg",
+                "https://api.dom-santehniki.by/storage/images/58460-609743.jpg"
+            ],
+            "cost": "406.00",
+            "brend": "Lavinia Boho",
+            "description": "Ширина: 36.5 см\r\nГлубина: 56 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "58460",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8672",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде подвесное Boheme Hermitage 953-CR 37x52 белое, с хромированным узором",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/76248-632788.jpg",
+                "https://api.dom-santehniki.by/storage/images/76248-607868.jpg"
+            ],
+            "cost": "1634.38",
+            "brend": "Boheme",
+            "description": "Ширина: 37 см\r\nГлубина: 52 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "76248",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a865f",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Lavinia Boho One напольное 35,5х52 33020060",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/31704-560023.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-887190.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-225265.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-371924.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-225555.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-541290.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-397339.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-703790.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-837430.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-710031.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-341941.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-399756.jpg",
+                "https://api.dom-santehniki.by/storage/images/31704-826529.jpg"
+            ],
+            "cost": "379.00",
+            "brend": "Lavinia Boho",
+            "description": "Ширина: 35.5 см\r\nГлубина: 52 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "31704",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8661",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Belbagno Marino 36,5x52 BB105B",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/43852-806897.jpg",
+                "https://api.dom-santehniki.by/storage/images/43852-667773.jpg",
+                "https://api.dom-santehniki.by/storage/images/43852-609984.jpg"
+            ],
+            "cost": "624.80",
+            "brend": "Belbagno",
+            "description": "Ширина: 36.5 см\r\nГлубина: 52 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "43852",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8686",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное BelBagno Flay-R BB1003B белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/123057-447323.jpg",
+                "https://api.dom-santehniki.by/storage/images/123057-664213.jpg",
+                "https://api.dom-santehniki.by/storage/images/123057-395310.jpg"
+            ],
+            "cost": "480.00",
+            "brend": "Belbagno",
+            "description": "Ширина: 36 см\r\nГлубина: 53 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "123057",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8682",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное BelBagno Sfera-R BB2141B белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/123052-847461.jpg",
+                "https://api.dom-santehniki.by/storage/images/123052-300748.jpg",
+                "https://api.dom-santehniki.by/storage/images/123052-771269.jpg",
+                "https://api.dom-santehniki.by/storage/images/123052-528533.jpg",
+                "https://api.dom-santehniki.by/storage/images/123052-410338.jpg",
+                "https://api.dom-santehniki.by/storage/images/123052-297472.jpg"
+            ],
+            "cost": "535.20",
+            "brend": "Belbagno",
+            "description": "Ширина: 36 см\r\nГлубина: 57.5 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "123052",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8660",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Lavinia Boho Bell Pro напольное 36х54 33010040",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/31825-982525.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-832580.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-887818.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-734900.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-816623.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-929854.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-661764.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-465224.jpg",
+                "https://api.dom-santehniki.by/storage/images/31825-441008.jpg"
+            ],
+            "cost": "401.00",
+            "brend": "Lavinia Boho",
+            "description": "Ширина: 36 см\r\nГлубина: 54 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "31825",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8675",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Isvea MY 10MY42002 36x52,5 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/91572-329295.jpg",
+                "https://api.dom-santehniki.by/storage/images/91572-170855.jpg",
+                "https://api.dom-santehniki.by/storage/images/91572-266569.jpg",
+                "https://api.dom-santehniki.by/storage/images/91572-793454.jpg",
+                "https://api.dom-santehniki.by/storage/images/91572-712196.jpg"
+            ],
+            "cost": "518.70",
+            "brend": "Isvea",
+            "description": "Ширина: 36 см\r\nГлубина: 52.5 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "91572",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8681",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное BelBagno Ardente-R BB003B белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/122965-651491.jpg",
+                "https://api.dom-santehniki.by/storage/images/122965-686511.jpg"
+            ],
+            "cost": "549.60",
+            "brend": "Belbagno",
+            "description": "Ширина: 36 см\r\nГлубина: 59.5 см\r\nКонструкция: Напольный\r\nПроизводство: Италия",
+            "article": "122965",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86c1",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Cersanit Eko 37x57",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/9530-312354.jpg"
+            ],
+            "cost": "195.30",
+            "brend": "Cersanit",
+            "description": "Ширина: 37 см\r\nГлубина: 57 см\r\nКонструкция: Напольный\r\nПроизводство: Польша/россия",
+            "article": "9530",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86cd",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Ideal Standard Ecco W804001 (Eurovit) 53х35,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/8692-987725.jpg",
+                "https://api.dom-santehniki.by/storage/images/8692-537500.jpg"
+            ],
+            "cost": "234.00",
+            "brend": "Ideal Standard",
+            "description": "Ширина: 35.5 см\r\nГлубина: 53 см\r\nКонструкция: Напольный\r\nПроизводство: Бельгия",
+            "article": "8692",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86d7",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Ceramalux 1217Е",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/55348-646695.jpg"
+            ],
+            "cost": "411.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "55348",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86dd",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Duravit D-Code 22381000002 54х35",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/8763-312288.jpg",
+                "https://api.dom-santehniki.by/storage/images/8763-534407.jpg"
+            ],
+            "cost": "348.00",
+            "brend": "Duravit",
+            "description": "Ширина: 35 см\r\nГлубина: 54 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "8763",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8701",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Deante Anemon CDZ_6BPW",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/44000-749368.jpg",
+                "https://api.dom-santehniki.by/storage/images/44000-230690.jpg",
+                "https://api.dom-santehniki.by/storage/images/44000-384925.jpg"
+            ],
+            "cost": "672.12",
+            "brend": "Deante",
+            "description": "Ширина: 38 см\r\nГлубина: 52 см\r\nКонструкция: Подвесной\r\nПроизводство: Польша",
+            "article": "44000",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8711",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Welt-Wasser GELBACH 005GL-WT белое глянцевое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64217-862150.jpg",
+                "https://api.dom-santehniki.by/storage/images/64217-945714.jpg"
+            ],
+            "cost": "423.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 34.5 см\r\nГлубина: 48.5 см\r\nКонструкция: Подвесной\r\nПроизводство: Германия",
+            "article": "64217",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a871f",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Belbagno Genova BB1104BH 37,5x52,0",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/62266-150737.jpg",
+                "https://api.dom-santehniki.by/storage/images/62266-699967.jpg",
+                "https://api.dom-santehniki.by/storage/images/62266-181950.jpg",
+                "https://api.dom-santehniki.by/storage/images/62266-630688.jpg"
+            ],
+            "cost": "536.00",
+            "brend": "Belbagno",
+            "description": "Ширина: 37.5 см\r\nГлубина: 52 см\r\nКонструкция: Подвесной\r\nПроизводство: Италия",
+            "article": "62266",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8724",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Grossman GR-В4455 56x36",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/68179-677294.jpg"
+            ],
+            "cost": "449.98",
+            "brend": "Grossman",
+            "description": "Ширина: 36 см\r\nГлубина: 56 см\r\nКонструкция: Подвесной\r\nПроизводство: Германия",
+            "article": "68179",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8726",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Timo Soli ТК-304 34,5x51",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/74684-275095.jpg",
+                "https://api.dom-santehniki.by/storage/images/74684-544270.jpg",
+                "https://api.dom-santehniki.by/storage/images/74684-107594.jpg",
+                "https://api.dom-santehniki.by/storage/images/74684-761266.jpg",
+                "https://api.dom-santehniki.by/storage/images/74684-781092.jpg"
+            ],
+            "cost": "557.00",
+            "brend": "Timo",
+            "description": "Ширина: 34.5 см\r\nГлубина: 51 см\r\nКонструкция: Подвесной\r\nПроизводство: Финляндия",
+            "article": "74684",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a872f",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Esbano GARTEZ W 34,5x51 белый глянец",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/94576-523458.jpg"
+            ],
+            "cost": "450.00",
+            "brend": "Esbano",
+            "description": "Ширина: 34.5 см\r\nГлубина: 51 см\r\nКонструкция: Подвесной\r\nПроизводство: Испания",
+            "article": "94576",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8739",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное AV Engineering ART AVWHR204B 44x50 белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113843-707231.jpg"
+            ],
+            "cost": "256.80",
+            "brend": "AV Engineering",
+            "description": "Ширина: 44 см\r\nГлубина: 50 см\r\nКонструкция: Подвесной\r\nПроизводство: Китай",
+            "article": "113843",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8742",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Roca Element А357576000 54,5x37 с отверстием под смеситель, белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/122967-676908.jpg",
+                "https://api.dom-santehniki.by/storage/images/122967-431097.jpg"
+            ],
+            "cost": "1283.64",
+            "brend": "Roca",
+            "description": "Ширина: 37 см\r\nГлубина: 54.5 см\r\nКонструкция: Подвесной\r\nПроизводство: Испания",
+            "article": "122967",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a874a",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Abber Bequem AC1150 48x37 белый глянец",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/139755-762481.jpg",
+                "https://api.dom-santehniki.by/storage/images/139755-782426.jpg",
+                "https://api.dom-santehniki.by/storage/images/139755-191862.jpg",
+                "https://api.dom-santehniki.by/storage/images/139755-623595.jpg",
+                "https://api.dom-santehniki.by/storage/images/139755-926727.jpg",
+                "https://api.dom-santehniki.by/storage/images/139755-269346.jpg"
+            ],
+            "cost": "537.21",
+            "brend": "Abber",
+            "description": "Ширина: 37 см\r\nГлубина: 48 см\r\nКонструкция: Подвесной\r\nПроизводство: Китай",
+            "article": "139755",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8769",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Roca Dama Senso 357515000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/37787-806653.jpg",
+                "https://api.dom-santehniki.by/storage/images/37787-725044.jpg",
+                "https://api.dom-santehniki.by/storage/images/37787-305980.jpg",
+                "https://api.dom-santehniki.by/storage/images/37787-666575.jpg",
+                "https://api.dom-santehniki.by/storage/images/37787-732404.jpg",
+                "https://api.dom-santehniki.by/storage/images/37787-251282.jpg"
+            ],
+            "cost": "689.00",
+            "brend": "Roca",
+            "description": "Ширина: 35.5 см\r\nГлубина: 57 см\r\nКонструкция: Подвесной\r\nПроизводство: Испания",
+            "article": "37787",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8773",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Jacob Delafon Presquile 55х38 E4441",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/8601-215627.jpg",
+                "https://api.dom-santehniki.by/storage/images/8601-717818.jpg"
+            ],
+            "cost": "1319.32",
+            "brend": "Jacob Delafon",
+            "description": "-",
+            "article": "8601",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8778",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Villeroy & Boch Hommage 7441 B0 R1",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/13338-903642.jpg",
+                "https://api.dom-santehniki.by/storage/images/13338-269001.jpg",
+                "https://api.dom-santehniki.by/storage/images/13338-763861.jpg",
+                "https://api.dom-santehniki.by/storage/images/13338-314647.jpg"
+            ],
+            "cost": "4499.00",
+            "brend": "Villeroy & Boch",
+            "description": "Ширина: 37 см\r\nГлубина: 60 см\r\nКонструкция: Подвесной\r\nПроизводство: Германия",
+            "article": "13338",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a878b",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Villeroy & Boch Finion 37,5x56 446500R1",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73391-461068.jpg",
+                "https://api.dom-santehniki.by/storage/images/73391-629065.jpg",
+                "https://api.dom-santehniki.by/storage/images/73391-247312.jpg",
+                "https://api.dom-santehniki.by/storage/images/73391-854642.jpg"
+            ],
+            "cost": "5193.70",
+            "brend": "Villeroy & Boch",
+            "description": "-",
+            "article": "73391",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87c5",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде Melana MLN-T5078",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/89909-620972.jpg",
+                "https://api.dom-santehniki.by/storage/images/89909-775928.jpg",
+                "https://api.dom-santehniki.by/storage/images/89909-541528.jpg"
+            ],
+            "cost": "466.44",
+            "brend": "Melana",
+            "description": "Ширина: 36 см\r\nГлубина: 54.5 см\r\nКонструкция: Подвесной\r\nПроизводство: Россия",
+            "article": "89909",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87c6",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Ceramalux 2197-1MB 37x49 черный матовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86921-748203.jpg",
+                "https://api.dom-santehniki.by/storage/images/86921-194481.jpg"
+            ],
+            "cost": "763.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "86921",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87ea",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Ceramalux 5370MDH 36x51 серый матовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/139072-444703.jpg",
+                "https://api.dom-santehniki.by/storage/images/139072-238467.jpg"
+            ],
+            "cost": "763.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "139072",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87ee",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Grossman GR-B4414 36x57 белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/141664-423899.jpg",
+                "https://api.dom-santehniki.by/storage/images/141664-773270.jpg"
+            ],
+            "cost": "244.20",
+            "brend": "Grossman",
+            "description": "Ширина: 36 см\r\nГлубина: 57 см\r\nКонструкция: Подвесной\r\nПроизводство: Германия",
+            "article": "141664",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87f1",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Rea Carlo Mini Gold White REA-C2288",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/132503-976688.jpg",
+                "https://api.dom-santehniki.by/storage/images/132503-269899.jpg",
+                "https://api.dom-santehniki.by/storage/images/132503-904799.jpg"
+            ],
+            "cost": "1560.00",
+            "brend": "Rea",
+            "description": "-",
+            "article": "132503",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87f7",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Allen Brau Reality 4.32008.AN 53x36,5 антрацит",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/144222-686365.jpg",
+                "https://api.dom-santehniki.by/storage/images/144222-559407.jpg",
+                "https://api.dom-santehniki.by/storage/images/144222-501877.jpg"
+            ],
+            "cost": "1329.30",
+            "brend": "Allen Brau",
+            "description": "-",
+            "article": "144222",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87f9",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Rea Carlo Mini White Gold Edge REA-C6990 белый/золото",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/125370-151728.jpg",
+                "https://api.dom-santehniki.by/storage/images/125370-932297.jpg",
+                "https://api.dom-santehniki.by/storage/images/125370-746249.jpg",
+                "https://api.dom-santehniki.by/storage/images/125370-279956.jpg"
+            ],
+            "cost": "942.00",
+            "brend": "Rea",
+            "description": "-",
+            "article": "125370",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a87fa",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Rea Olivier C6501 36x50 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/139115-395735.jpg",
+                "https://api.dom-santehniki.by/storage/images/139115-378238.jpg",
+                "https://api.dom-santehniki.by/storage/images/139115-438778.jpg",
+                "https://api.dom-santehniki.by/storage/images/139115-630680.jpg",
+                "https://api.dom-santehniki.by/storage/images/139115-429135.jpg",
+                "https://api.dom-santehniki.by/storage/images/139115-839375.jpg"
+            ],
+            "cost": "672.00",
+            "brend": "Rea",
+            "description": "-",
+            "article": "139115",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8692",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Laufen Kartell by Laufe напольное 8.3233.1.000.302.1 37х56",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/34503-342147.jpg",
+                "https://api.dom-santehniki.by/storage/images/34503-481398.jpg",
+                "https://api.dom-santehniki.by/storage/images/34503-322213.jpg",
+                "https://api.dom-santehniki.by/storage/images/34503-351224.jpg"
+            ],
+            "cost": "2475.00",
+            "brend": "Laufen",
+            "description": "Ширина: 37 см\r\nГлубина: 56 см\r\nКонструкция: Напольный\r\nПроизводство: Швейцария",
+            "article": "34503",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8679",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Burlington P4 39,5x56,5 белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/89434-884349.jpg",
+                "https://api.dom-santehniki.by/storage/images/89434-331279.jpg"
+            ],
+            "cost": "1079.30",
+            "brend": "Burlington",
+            "description": "Ширина: 39.5 см\r\nГлубина: 56.5 см\r\nКонструкция: Напольный\r\nПроизводство: Великобритания",
+            "article": "89434",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a867d",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Timo Kulo ТК-402 37,5x58",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/74680-604879.jpg",
+                "https://api.dom-santehniki.by/storage/images/74680-616103.jpg",
+                "https://api.dom-santehniki.by/storage/images/74680-670993.jpg",
+                "https://api.dom-santehniki.by/storage/images/74680-492995.jpg",
+                "https://api.dom-santehniki.by/storage/images/74680-173204.jpg"
+            ],
+            "cost": "557.00",
+            "brend": "Timo",
+            "description": "Ширина: 37.5 см\r\nГлубина: 58 см\r\nКонструкция: Напольный\r\nПроизводство: Финляндия",
+            "article": "74680",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86a6",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Jacob Delafon Escale 60х37,5 E1293-00",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/8573-343971.jpg",
+                "https://api.dom-santehniki.by/storage/images/8573-195977.jpg",
+                "https://api.dom-santehniki.by/storage/images/8573-395962.jpg"
+            ],
+            "cost": "1043.00",
+            "brend": "Jacob Delafon",
+            "description": "-",
+            "article": "8573",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86a9",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Kolo Freja L75000000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/9822-834952.jpg",
+                "https://api.dom-santehniki.by/storage/images/9822-100713.jpg",
+                "https://api.dom-santehniki.by/storage/images/9822-228473.jpg"
+            ],
+            "cost": "162.68",
+            "brend": "Kolo",
+            "description": "Ширина: 35.5 см\r\nГлубина: 54 см\r\nКонструкция: Напольный\r\nПроизводство: Польша/украина",
+            "article": "9822",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86ba",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде CEZARES King Palace CZR-618-T 40х59",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/9990-817535.jpg",
+                "https://api.dom-santehniki.by/storage/images/9990-304286.jpg",
+                "https://api.dom-santehniki.by/storage/images/9990-679460.jpg",
+                "https://api.dom-santehniki.by/storage/images/9990-784366.jpg"
+            ],
+            "cost": "1163.20",
+            "brend": "Cezares",
+            "description": "-",
+            "article": "9990",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86c7",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Belbagno Boheme BB115B 38х55",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/43703-213552.jpg",
+                "https://api.dom-santehniki.by/storage/images/43703-875026.jpg"
+            ],
+            "cost": "440.40",
+            "brend": "Belbagno",
+            "description": "-",
+            "article": "43703",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86e6",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Ceramalux 2051 37,5x64,5 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86910-499026.jpg",
+                "https://api.dom-santehniki.by/storage/images/86910-744772.jpg",
+                "https://api.dom-santehniki.by/storage/images/86910-751253.jpg"
+            ],
+            "cost": "766.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "86910",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86e7",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное Ceramalux 4285 37,5x64,5 белый-золото",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86911-670284.jpg",
+                "https://api.dom-santehniki.by/storage/images/86911-223562.jpg"
+            ],
+            "cost": "1419.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "86911",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86e8",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное GID BDN-30BM 35,5x53 черный матовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/114793-312288.jpg",
+                "https://api.dom-santehniki.by/storage/images/114793-564621.jpg",
+                "https://api.dom-santehniki.by/storage/images/114793-891948.jpg",
+                "https://api.dom-santehniki.by/storage/images/114793-871389.jpg",
+                "https://api.dom-santehniki.by/storage/images/114793-621845.jpg",
+                "https://api.dom-santehniki.by/storage/images/114793-313668.jpg"
+            ],
+            "cost": "790.00",
+            "brend": "Gid",
+            "description": "-",
+            "article": "114793",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a86f1",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде напольное CeramaLux 9104C 39x60 белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/123291-155267.jpg"
+            ],
+            "cost": "438.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "123291",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a873c",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Idevit Halley K3206-2605-001-1-0000 36x52 белое",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/54127-247011.jpg",
+                "https://api.dom-santehniki.by/storage/images/54127-185620.jpg",
+                "https://api.dom-santehniki.by/storage/images/54127-153348.jpg"
+            ],
+            "cost": "438.71",
+            "brend": "Idevit",
+            "description": "Ширина: 36 см\r\nГлубина: 52 см\r\nКонструкция: Подвесной\r\nПроизводство: Турция",
+            "article": "54127",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a874e",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Allen Brau Reality 4.32008.31 53x36,5 черный матовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/144220-180523.jpg",
+                "https://api.dom-santehniki.by/storage/images/144220-952704.jpg",
+                "https://api.dom-santehniki.by/storage/images/144220-565949.jpg"
+            ],
+            "cost": "1329.30",
+            "brend": "Allen Brau",
+            "description": "Ширина: 36.5 см\r\nГлубина: 53 см\r\nКонструкция: Подвесной\r\nПроизводство: Германия/китай",
+            "article": "144220",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8788",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде подвесные",
+            "title": "Биде подвесное Villeroy & Boch Architectura 37x53 54840001",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73364-216737.jpg",
+                "https://api.dom-santehniki.by/storage/images/73364-899648.jpg",
+                "https://api.dom-santehniki.by/storage/images/73364-957344.jpg",
+                "https://api.dom-santehniki.by/storage/images/73364-650930.jpg",
+                "https://api.dom-santehniki.by/storage/images/73364-501919.jpg",
+                "https://api.dom-santehniki.by/storage/images/73364-899328.jpg"
+            ],
+            "cost": "2486.71",
+            "brend": "Villeroy & Boch",
+            "description": "-",
+            "article": "73364",
+            "__v": 0
+        }
+    ],
+    "totalPages": 71
+}

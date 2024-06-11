@@ -3,6 +3,7 @@ import Category from "../components/Category/Category";
 import MapSection from "../components/MapSection/MapSection";
 import ShowerSection from "../components/ShowerSection/ShowerSection";
 import { useProducts } from "../store/useProducts";
+import KatalogMain from "../components/KatalogMain/KatalogMain";
 
 export default function HomePage({ setButton, setSubtitle, setTitle }) {
     const getBusketList = useProducts((state) => state.getBusketList)
@@ -16,7 +17,8 @@ export default function HomePage({ setButton, setSubtitle, setTitle }) {
     }, [])
     return (
         <div className="page">
-            <Category></Category>
+            {/* <Category></Category> */}
+            <KatalogMain></KatalogMain>
             <ShowerSection></ShowerSection>
             <MapSection></MapSection>
         </div>

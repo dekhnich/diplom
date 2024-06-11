@@ -1,5 +1,6 @@
 import { create } from "zustand";
 import { url } from "../constants";
+var data = require('../json/products.json');
 
 export const useProducts = create((set) => ({
   products: [],
@@ -8,10 +9,10 @@ export const useProducts = create((set) => ({
     set((state) => ({ totalPages: num }))
   },
   getProducts: async () => {
-    let data = null
+    // let data = null
     try {
-      const res = await fetch(url + "/findProducts");
-      data = await res.json()
+      // const res = await fetch(url + "/findProducts");
+      // data = await res.json()
     } catch (error) {
       if (error instanceof SyntaxError) {
         console.log('There was a SyntaxError', error);

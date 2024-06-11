@@ -1,0 +1,828 @@
+{
+    "products": [
+        {
+            "_id": "658e51fe77051efbd863c5cc",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE ORION OID 611-78 3,5\" полярный белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64403-115765.jpg",
+                "https://api.dom-santehniki.by/storage/images/64403-853778.jpg",
+                "https://api.dom-santehniki.by/storage/images/64403-324776.jpg",
+                "https://api.dom-santehniki.by/storage/images/64403-964917.jpg",
+                "https://api.dom-santehniki.by/storage/images/64403-684721.jpg"
+            ],
+            "cost": "537.00",
+            "brend": "FRANKE",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 18 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "64403",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5c2",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE SIRIUS SID 610 3,5\" полярный белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64357-309827.jpg",
+                "https://api.dom-santehniki.by/storage/images/64357-588526.jpg",
+                "https://api.dom-santehniki.by/storage/images/64357-908439.jpg",
+                "https://api.dom-santehniki.by/storage/images/64357-975713.jpg"
+            ],
+            "cost": "838.00",
+            "brend": "FRANKE",
+            "description": "Длина: 56 см\r\nШирина: 53 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "64357",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5d1",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Zorg Torino 61,5x50 черный опал",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79844-336683.jpg",
+                "https://api.dom-santehniki.by/storage/images/79844-383451.jpg",
+                "https://api.dom-santehniki.by/storage/images/79844-344016.jpg"
+            ],
+            "cost": "398.00",
+            "brend": "ZorG",
+            "description": "Длина: 61.5 см\r\nШирина: 50 см\r\nГлубина чаши: 18 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Чехия",
+            "article": "79844",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5ce",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE KBG 160 55,8x46 бежевый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/62865-590347.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-153292.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-809552.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-536375.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-245868.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-169990.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-440707.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-192952.jpg",
+                "https://api.dom-santehniki.by/storage/images/62865-315479.jpg"
+            ],
+            "cost": "750.00",
+            "brend": "FRANKE",
+            "description": "Длина: 55.8 см\r\nШирина: 46 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "62865",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5c5",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE ORION OID 611-78 3,5\" оникс",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64405-594455.jpg",
+                "https://api.dom-santehniki.by/storage/images/64405-588495.jpg",
+                "https://api.dom-santehniki.by/storage/images/64405-813350.jpg",
+                "https://api.dom-santehniki.by/storage/images/64405-877150.jpg",
+                "https://api.dom-santehniki.by/storage/images/64405-439179.jpg",
+                "https://api.dom-santehniki.by/storage/images/64405-799078.jpg"
+            ],
+            "cost": "558.00",
+            "brend": "FRANKE",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 18 см\r\nЦвет: Цветной\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "64405",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5e1",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Zorg Fresco 50x50 песчаный берег",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79812-504994.jpg",
+                "https://api.dom-santehniki.by/storage/images/79812-668273.jpg",
+                "https://api.dom-santehniki.by/storage/images/79812-550261.jpg"
+            ],
+            "cost": "161.00",
+            "brend": "ZorG",
+            "description": "Длина: 50 см\r\nШирина: 50 см\r\nГлубина чаши: 18 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Чехия",
+            "article": "79812",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5c6",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE SIRIUS SID 610-40  3,5\" оникс",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64401-773364.jpg",
+                "https://api.dom-santehniki.by/storage/images/64401-535133.jpg",
+                "https://api.dom-santehniki.by/storage/images/64401-139678.jpg",
+                "https://api.dom-santehniki.by/storage/images/64401-843720.jpg"
+            ],
+            "cost": "592.00",
+            "brend": "FRANKE",
+            "description": "Длина: 43 см\r\nШирина: 53 см\r\nГлубина чаши: 20 см\r\nЦвет: Цветной\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "64401",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5c8",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка FRANKE SIRIUS SID 610 3,5\" кофе",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64358-686066.jpg",
+                "https://api.dom-santehniki.by/storage/images/64358-295931.jpg",
+                "https://api.dom-santehniki.by/storage/images/64358-997098.jpg",
+                "https://api.dom-santehniki.by/storage/images/64358-377426.jpg"
+            ],
+            "cost": "838.00",
+            "brend": "FRANKE",
+            "description": "Длина: 56 см\r\nШирина: 53 см\r\nГлубина чаши: 20 см\r\nЦвет: Цветной\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "64358",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5d0",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Blanco SUBLINE 700-U Level 73x46 кофе",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/67049-395351.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-541410.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-957053.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-352066.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-689010.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-797393.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-396001.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-381868.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-498123.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-532377.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-745892.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-565445.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-964488.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-688157.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-783775.jpg",
+                "https://api.dom-santehniki.by/storage/images/67049-150176.jpg"
+            ],
+            "cost": "1499.00",
+            "brend": "Blanco",
+            "description": "Длина: 73 см\r\nШирина: 46 см\r\nГлубина чаши: 20 см\r\nЦвет: Цветной\r\nМатериал: Искусственный камень\r\nПроизводство: Германия",
+            "article": "67049",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5df",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Zorg Como 46,5x50,5 серый жемчуг",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/75708-647644.jpg",
+                "https://api.dom-santehniki.by/storage/images/75708-494255.jpg",
+                "https://api.dom-santehniki.by/storage/images/75708-430507.jpg"
+            ],
+            "cost": "386.00",
+            "brend": "ZorG",
+            "description": "Длина: 46.5 см\r\nШирина: 50.5 см\r\nГлубина чаши: 18 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Чехия",
+            "article": "75708",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5e7",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Blanco Rotan 500-U 53x46 черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/78959-956501.jpg",
+                "https://api.dom-santehniki.by/storage/images/78959-733509.jpg",
+                "https://api.dom-santehniki.by/storage/images/78959-623335.jpg",
+                "https://api.dom-santehniki.by/storage/images/78959-404559.jpg"
+            ],
+            "cost": "1430.00",
+            "brend": "Blanco",
+            "description": "Длина: 53 см\r\nШирина: 46 см\r\nГлубина чаши: 19 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Германия",
+            "article": "78959",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5fc",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Atol-460 серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90269-844019.jpg",
+                "https://api.dom-santehniki.by/storage/images/90269-389956.jpg",
+                "https://api.dom-santehniki.by/storage/images/90269-658050.jpg"
+            ],
+            "cost": "169.00",
+            "brend": "Polygran",
+            "description": "Длина: 46 см\r\nШирина: 46 см\r\nГлубина чаши: 20 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90269",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c60c",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Atol-620 серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90287-306692.jpg",
+                "https://api.dom-santehniki.by/storage/images/90287-674758.jpg"
+            ],
+            "cost": "221.00",
+            "brend": "Polygran",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90287",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c61e",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Белюкс KLG 6250 Серый сланец",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83536-141722.jpg"
+            ],
+            "cost": "216.74",
+            "brend": "Белюкс",
+            "description": "Длина: 61.5 см\r\nШирина: 50 см\r\nГлубина чаши: 21 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Беларусь",
+            "article": "83536",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c62d",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Brig-620 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90319-915974.jpg",
+                "https://api.dom-santehniki.by/storage/images/90319-875945.jpg",
+                "https://api.dom-santehniki.by/storage/images/90319-780441.jpg"
+            ],
+            "cost": "273.00",
+            "brend": "Polygran",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90319",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c63d",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF - R480 графит",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113172-299290.jpg",
+                "https://api.dom-santehniki.by/storage/images/113172-444747.jpg"
+            ],
+            "cost": "177.00",
+            "brend": "GranFest",
+            "description": "Длина: 47.5 см\r\nШирина: 47.5 см\r\nГлубина чаши: 19.4 см\r\nЦвет: Графит\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "113172",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c647",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Gals-620 черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90354-189470.jpg",
+                "https://api.dom-santehniki.by/storage/images/90354-838590.jpg",
+                "https://api.dom-santehniki.by/storage/images/90354-579054.jpg",
+                "https://api.dom-santehniki.by/storage/images/90354-321978.jpg"
+            ],
+            "cost": "255.00",
+            "brend": "Polygran",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90354",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c64e",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Centro CNG 611/211-78 78x50 черный матовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86636-190898.jpg",
+                "https://api.dom-santehniki.by/storage/images/86636-722012.jpg",
+                "https://api.dom-santehniki.by/storage/images/86636-506200.jpg"
+            ],
+            "cost": "799.00",
+            "brend": "FRANKE",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86636",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c650",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Brig-870 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90344-561922.jpg",
+                "https://api.dom-santehniki.by/storage/images/90344-966758.jpg",
+                "https://api.dom-santehniki.by/storage/images/90344-337720.jpg"
+            ],
+            "cost": "339.00",
+            "brend": "Polygran",
+            "description": "Длина: 87 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90344",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c654",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Centro CNG 611/211-62 62x50 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86616-667765.jpg",
+                "https://api.dom-santehniki.by/storage/images/86616-695875.jpg"
+            ],
+            "cost": "725.00",
+            "brend": "FRANKE",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86616",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c658",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 25 309 темно-серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/110942-355601.jpg",
+                "https://api.dom-santehniki.by/storage/images/110942-102745.jpg"
+            ],
+            "cost": "263.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 76 см\r\nШирина: 49 см\r\nГлубина чаши: 18.5 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "110942",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c665",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF-R510 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113180-203055.jpg",
+                "https://api.dom-santehniki.by/storage/images/113180-666103.jpg"
+            ],
+            "cost": "174.00",
+            "brend": "GranFest",
+            "description": "Длина: 50.5 см\r\nШирина: 50.8 см\r\nГлубина чаши: 19 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "113180",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c66b",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Urban UBG 611-62  3,5\" 62x50 сахара",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86704-949222.jpg",
+                "https://api.dom-santehniki.by/storage/images/86704-711763.jpg"
+            ],
+            "cost": "834.00",
+            "brend": "FRANKE",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 22 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86704",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c67c",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Gals-760 белый хлопок",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90367-123692.jpg",
+                "https://api.dom-santehniki.by/storage/images/90367-571942.jpg",
+                "https://api.dom-santehniki.by/storage/images/90367-920927.jpg",
+                "https://api.dom-santehniki.by/storage/images/90367-340118.jpg"
+            ],
+            "cost": "291.00",
+            "brend": "Polygran",
+            "description": "Длина: 76 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90367",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c6df",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF-R510 терракот",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113179-308153.jpg",
+                "https://api.dom-santehniki.by/storage/images/113179-424643.jpg"
+            ],
+            "cost": "174.00",
+            "brend": "GranFest",
+            "description": "Длина: 50.5 см\r\nШирина: 50.8 см\r\nГлубина чаши: 19 см\r\nЦвет: Коричневый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "113179",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c6e8",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF - P505 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/114935-857202.jpg",
+                "https://api.dom-santehniki.by/storage/images/114935-571723.jpg"
+            ],
+            "cost": "189.00",
+            "brend": "GranFest",
+            "description": "Длина: 42.7 см\r\nШирина: 50.5 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "114935",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c6f7",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 76 302 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/111005-390097.jpg",
+                "https://api.dom-santehniki.by/storage/images/111005-739200.jpg"
+            ],
+            "cost": "268.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 75 см\r\nШирина: 49.5 см\r\nГлубина чаши: 19 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "111005",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c6ff",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest QUARZ Z-78 серая",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/112466-759197.jpg",
+                "https://api.dom-santehniki.by/storage/images/112466-991046.jpg",
+                "https://api.dom-santehniki.by/storage/images/112466-473026.jpg"
+            ],
+            "cost": "200.00",
+            "brend": "GranFest",
+            "description": "Длина: 74 см\r\nШирина: 48 см\r\nГлубина чаши: 18 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "112466",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c705",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF - Q650L белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/114873-283910.jpg"
+            ],
+            "cost": "260.00",
+            "brend": "GranFest",
+            "description": "Длина: 65 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "114873",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c70c",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Teka Square 40.40 TG 44x44 каменно-серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/111396-572605.jpg",
+                "https://api.dom-santehniki.by/storage/images/111396-987612.jpg"
+            ],
+            "cost": "568.00",
+            "brend": "Teka",
+            "description": "Длина: 44 см\r\nШирина: 44 см\r\nГлубина чаши: 20 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Испания",
+            "article": "111396",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c713",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Teka Square 40.40 TG 44x44 авена бежевый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/111390-150314.jpg",
+                "https://api.dom-santehniki.by/storage/images/111390-353020.jpg"
+            ],
+            "cost": "568.00",
+            "brend": "Teka",
+            "description": "Длина: 44 см\r\nШирина: 44 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Испания",
+            "article": "111390",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c71e",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF - Q561 черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113475-471976.jpg",
+                "https://api.dom-santehniki.by/storage/images/113475-218255.jpg",
+                "https://api.dom-santehniki.by/storage/images/113475-632158.jpg"
+            ],
+            "cost": "226.00",
+            "brend": "GranFest",
+            "description": "Длина: 56 см\r\nШирина: 50 см\r\nГлубина чаши: 19 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "113475",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5e0",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Blanco Rotan 400-U 43x46 черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/78957-854251.jpg",
+                "https://api.dom-santehniki.by/storage/images/78957-184670.jpg",
+                "https://api.dom-santehniki.by/storage/images/78957-920998.jpg"
+            ],
+            "cost": "1254.00",
+            "brend": "Blanco",
+            "description": "Длина: 43 см\r\nШирина: 46 см\r\nГлубина чаши: 19 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Германия",
+            "article": "78957",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c5e6",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Blanco NAYA 6 61,5x51 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/78736-636903.jpg",
+                "https://api.dom-santehniki.by/storage/images/78736-564882.jpg",
+                "https://api.dom-santehniki.by/storage/images/78736-472480.jpg"
+            ],
+            "cost": "898.00",
+            "brend": "Blanco",
+            "description": "Длина: 61.5 см\r\nШирина: 51 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Германия",
+            "article": "78736",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c604",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Zorg Luka 78x50 черный опал",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79822-709121.jpg",
+                "https://api.dom-santehniki.by/storage/images/79822-678168.jpg"
+            ],
+            "cost": "492.00",
+            "brend": "ZorG",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 18 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Чехия",
+            "article": "79822",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c60a",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 25 L 307 терракот",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/111002-575484.jpg",
+                "https://api.dom-santehniki.by/storage/images/111002-678761.jpg"
+            ],
+            "cost": "186.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 64 см\r\nШирина: 50.5 см\r\nГлубина чаши: 18.5 см\r\nЦвет: Коричневый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "111002",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c611",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Atol-460 белый хлопок",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90251-556455.jpg",
+                "https://api.dom-santehniki.by/storage/images/90251-646051.jpg",
+                "https://api.dom-santehniki.by/storage/images/90251-965712.jpg"
+            ],
+            "cost": "169.00",
+            "brend": "Polygran",
+            "description": "Длина: 46 см\r\nШирина: 46 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90251",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c615",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 02 302 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/110319-187887.jpg",
+                "https://api.dom-santehniki.by/storage/images/110319-374569.jpg"
+            ],
+            "cost": "182.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 50.5 см\r\nШирина: 50.5 см\r\nГлубина чаши: 16.5 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "110319",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c629",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Gals-860 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90373-619220.jpg",
+                "https://api.dom-santehniki.by/storage/images/90373-937054.jpg",
+                "https://api.dom-santehniki.by/storage/images/90373-165799.jpg"
+            ],
+            "cost": "295.00",
+            "brend": "Polygran",
+            "description": "Длина: 86 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90373",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c630",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 13 309 темно-серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/110411-975188.jpg",
+                "https://api.dom-santehniki.by/storage/images/110411-576632.jpg"
+            ],
+            "cost": "237.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 64 см\r\nШирина: 49 см\r\nГлубина чаши: 17.5 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "110411",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c634",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Centro CNG 610/210-39 44x50 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86592-504402.jpg",
+                "https://api.dom-santehniki.by/storage/images/86592-513353.jpg",
+                "https://api.dom-santehniki.by/storage/images/86592-262245.jpg"
+            ],
+            "cost": "750.00",
+            "brend": "FRANKE",
+            "description": "Длина: 44 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86592",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c63b",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Antea AZG 611-62 62x50 оникс",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86559-673922.jpg",
+                "https://api.dom-santehniki.by/storage/images/86559-897582.jpg"
+            ],
+            "cost": "809.00",
+            "brend": "FRANKE",
+            "description": "Длина: 62 см\r\nШирина: 50 см\r\nГлубина чаши: 21 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86559",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c63c",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Белюкс BLG 5847 Черный обсидиан",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83531-177297.jpg"
+            ],
+            "cost": "195.09",
+            "brend": "Белюкс",
+            "description": "Длина: 58 см\r\nШирина: 47 см\r\nГлубина чаши: 19.5 см\r\nЦвет: Чёрный\r\nМатериал: Искусственный камень\r\nПроизводство: Беларусь",
+            "article": "83531",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c642",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Белюкс SG-REC-HALF-8045 Белый кварц",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83546-554602.jpg"
+            ],
+            "cost": "272.14",
+            "brend": "Белюкс",
+            "description": "Длина: 80 см\r\nШирина: 45 см\r\nГлубина чаши: 21 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Беларусь",
+            "article": "83546",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c646",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 21 309 темно-серый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/110675-462154.jpg",
+                "https://api.dom-santehniki.by/storage/images/110675-606603.jpg"
+            ],
+            "cost": "252.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 60 см\r\nШирина: 48.5 см\r\nГлубина чаши: 19 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "110675",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c64f",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Centro CNG 611/211-78 TL 78x50 чаша справа, белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86623-407230.jpg",
+                "https://api.dom-santehniki.by/storage/images/86623-277714.jpg",
+                "https://api.dom-santehniki.by/storage/images/86623-393962.jpg"
+            ],
+            "cost": "928.00",
+            "brend": "FRANKE",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86623",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c65a",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Argo-460 песочный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/90226-193796.jpg",
+                "https://api.dom-santehniki.by/storage/images/90226-650996.jpg",
+                "https://api.dom-santehniki.by/storage/images/90226-429699.jpg",
+                "https://api.dom-santehniki.by/storage/images/90226-540794.jpg"
+            ],
+            "cost": "207.00",
+            "brend": "Polygran",
+            "description": "Длина: 46 см\r\nШирина: 51 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90226",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c663",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Мойка кухонная GranFest GF-Z48 бежевый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/112515-494002.jpg",
+                "https://api.dom-santehniki.by/storage/images/112515-915263.jpg",
+                "https://api.dom-santehniki.by/storage/images/112515-724823.jpg",
+                "https://api.dom-santehniki.by/storage/images/112515-610459.jpg"
+            ],
+            "cost": "212.00",
+            "brend": "GranFest",
+            "description": "Длина: 47.8 см\r\nШирина: 47.8 см\r\nГлубина чаши: 17.8 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "112515",
+            "__v": 0
+        }
+    ],
+    "totalPages": 76
+}

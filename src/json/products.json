@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "_id": "658f2c3b061751740d8a6fec",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Chaber BGC_010M",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/5e8/aj7lgxkue1szdh8tyh022o0hgz7miarg/400_400_140cd750bba9870f18aada2478b24840a/Screenshot_7.png"
+            ],
+            "cost": "190.38",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "64240",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a8666",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Lavinia Boho Biore напольное 36,5x56 33040050",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/390/2c5j4v5u2m0rbz0gmjcvod5o0oxhzb5w/400_400_140cd750bba9870f18aada2478b24840a/39351000_l_01.jpg"
+            ],
+            "cost": "406.00",
+            "brend": "Lavinia Boho",
+            "description": "Ширина: 36.5 см\r\nГлубина: 56 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "58460",
+            "__v": 0
+        },
+        {
+            "_id": "658f2cc9061751740d8a865f",
+            "category": "Унитазы и биде",
+            "subcategory": "Биде",
+            "type": "Биде напольные",
+            "title": "Биде Lavinia Boho One напольное 35,5х52 33020060",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/390/2c5j4v5u2m0rbz0gmjcvod5o0oxhzb5w/400_400_140cd750bba9870f18aada2478b24840a/39351000_l_01.jpg"
+            ],
+            "cost": "379.00",
+            "brend": "Lavinia Boho",
+            "description": "Ширина: 35.5 см\r\nГлубина: 52 см\r\nКонструкция: Напольный\r\nПроизводство: Германия",
+            "article": "31704",
+            "__v": 0
+        },
+        {
+            "_id": "658e568277051efbd863e904",
+            "category": "Плитка",
+            "subcategory": "Керамическая плитка",
+            "type": "Плитка для стен",
+            "title": "Мозаика Liya Mosaic Crystal Mosaic HP25006 30x30",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/35738-183479.jpg",
+                "https://api.dom-santehniki.by/storage/images/35738-334488.jpg",
+                "https://api.dom-santehniki.by/storage/images/35738-750421.jpg"
+            ],
+            "cost": "74.53",
+            "brend": "Liya Mosaic",
+            "description": "Размеры (ДхШхГ): 30x30x0.4 cм\r\nЦена за 1 кв. метр",
+            "article": "35738",
+            "__v": 0
+        },
+        {
+            "_id": "658e568277051efbd863e8ff",
+            "category": "Плитка",
+            "subcategory": "Керамическая плитка",
+            "type": "Плитка для стен",
+            "title": "Мозаика FK Marble Dolomiti Bianco 23-4T 30 x 30",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/dc6/ycbhbcu5jvi74r72w78p44y0em7xl554/400_400_140cd750bba9870f18aada2478b24840a/B20P580i12_photo_3d_01.jpg"
+            ],
+            "cost": "298.12",
+            "brend": "FK Marble",
+            "description": "Размеры (ДхШхГ): 30x30x0.4 cм\r\nЦена за 1 кв. метр",
+            "article": "35965",
+            "__v": 0
+        },
+        {
+            "_id": "658e54e377051efbd863d51b",
+            "category": "Мебель для ванной",
+            "subcategory": "Мебель для ванной",
+            "type": "Тумбы с умывальником",
+            "title": "Тумба под умывальник АВН 55 ЭКО+ 13.17 (3) белая",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/b2d/nv62keslpo0rg0c9jt4tmuk9r10c4037/400_400_140cd750bba9870f18aada2478b24840a/CLO80Y0i95K_photo_3d_01.jpg"
+            ],
+            "cost": "186.00",
+            "brend": "АВН",
+            "description": "Ширина: 49.5 см\r\nГлубина: 29.2 см\r\nВысота: 69 см\r\nМонтаж: Напольный\r\nПроизводство: Беларусь",
+            "article": "64609",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c646",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Gran-Stone GS 21 309 темно-серый",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/8be/riw08yyc42ng70p4vn5temwm9xg3y7kg/400_400_140cd750bba9870f18aada2478b24840a/STR58PDi77_photo_3d_01.jpg"
+            ],
+            "cost": "252.00",
+            "brend": "Gran-Stone",
+            "description": "Длина: 60 см\r\nШирина: 48.5 см\r\nГлубина чаши: 19 см\r\nЦвет: Серый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "110675",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c64f",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Franke Centro CNG 611/211-78 TL 78x50 чаша справа, белый",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/87d/h1mabl0blhc5vn4k18jpb9w661xs814d/400_400_140cd750bba9870f18aada2478b24840a/SUN77SDi77_photo_3d_01.jpg"
+            ],
+            "cost": "928.00",
+            "brend": "FRANKE",
+            "description": "Длина: 78 см\r\nШирина: 50 см\r\nГлубина чаши: 20 см\r\nЦвет: Белый\r\nМатериал: Искусственный камень\r\nПроизводство: Швейцария",
+            "article": "86623",
+            "__v": 0
+        },
+        {
+            "_id": "658e51fe77051efbd863c65a",
+            "category": "Кухонные мойки и фильтры",
+            "subcategory": "Кухонные мойки",
+            "type": "Мойка из искусственного камня",
+            "title": "Кухонная мойка Polygran Argo-460 песочный",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/8be/riw08yyc42ng70p4vn5temwm9xg3y7kg/400_400_140cd750bba9870f18aada2478b24840a/STR58PDi77_photo_3d_01.jpg"
+            ],
+            "cost": "207.00",
+            "brend": "Polygran",
+            "description": "Длина: 46 см\r\nШирина: 51 см\r\nГлубина чаши: 20 см\r\nЦвет: Бежевый\r\nМатериал: Искусственный камень\r\nПроизводство: Россия",
+            "article": "90226",
+            "__v": 0
+        },
+        {
+            "_id": "658e54e377051efbd863d521",
+            "category": "Мебель для ванной",
+            "subcategory": "Мебель для ванной",
+            "type": "Тумбы с умывальником",
+            "title": "Тумба напольная Aqwella Forma 115 с умывальником с корзиной для установки со стиральной машиной правая",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/4e1/vqee783nsfwh3h80k5t1bt3ba9uysdkn/400_400_140cd750bba9870f18aada2478b24840a/OXF10N1i95K_photo_3d_01.jpg"
+            ],
+            "cost": "1323.00",
+            "brend": "Aqwella",
+            "description": "Ширина: 115 см\r\nГлубина: 50 см\r\nВысота: 88.2 см\r\nМонтаж: Напольный\r\nПроизводство: Россия",
+            "article": "58319",
+            "__v": 0
+        },
+        {
+            "_id": "658e57d677051efbd863ec02",
+            "category": "Полотенцесушители",
+            "subcategory": "Полотенцесушители",
+            "type": "Водяные полотенцесушители",
+            "title": "Полотенцесушитель водяной TERMINUS Стандарт П8 500х800 бп500",
+            "images": [
+                "https://kit-shop.kz/upload/resize_cache/iblock/1c1/400_400_140cd750bba9870f18aada2478b24840a/v10.jpg"
+            ],
+            "cost": "409.00",
+            "brend": "Terminus",
+            "description": "Ширина: 57.7 см\r\nВысота: 80 см\r\nТип: Водяной\r\nФорма: Лесенка\r\nПодключение: Боковое\r\nПроизводство: Россия",
+            "article": "107541",
+            "__v": 0
+        }
+    ],
+    "totalPages": 1
+}

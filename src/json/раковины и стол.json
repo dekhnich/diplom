@@ -1,0 +1,839 @@
+{
+    "products": [
+        {
+            "_id": "658e592177051efbd863fe71",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Акватон Лондри 105 105x50 (левый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/72063-926497.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-503569.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-155459.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-500627.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-696226.jpg"
+            ],
+            "cost": "483.27",
+            "brend": "Акватон",
+            "description": "Ширина: 105 см\r\nГлубина: 50 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "72063",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe89",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник мебельный Эстет Комфорт 58,5x49,0",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73114-222767.jpg",
+                "https://api.dom-santehniki.by/storage/images/73114-885077.jpg",
+                "https://api.dom-santehniki.by/storage/images/73114-393117.jpg",
+                "https://api.dom-santehniki.by/storage/images/73114-359142.jpg",
+                "https://api.dom-santehniki.by/storage/images/73114-791013.jpg",
+                "https://api.dom-santehniki.by/storage/images/73114-524605.jpg"
+            ],
+            "cost": "475.41",
+            "brend": "Эстет",
+            "description": "Ширина: 59 см\r\nГлубина: 49.5 см\r\nКонструкция: На тумбу|на стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "73114",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe70",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Белюкс Эврика-Лайт ЭВ-600 60x60 для установки над стиральной машиной",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/61942-562057.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-929558.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-314466.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-229536.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-517378.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-617020.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-820550.jpg",
+                "https://api.dom-santehniki.by/storage/images/61942-666323.jpg"
+            ],
+            "cost": "560.36",
+            "brend": "Белюкс",
+            "description": "Ширина: 60 см\r\nГлубина: 60 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Беларусь",
+            "article": "61942",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe97",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Andrea Cosmos 110 110x48 белый (левый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/86165-578238.jpg",
+                "https://api.dom-santehniki.by/storage/images/86165-484383.jpg",
+                "https://api.dom-santehniki.by/storage/images/86165-356589.jpg",
+                "https://api.dom-santehniki.by/storage/images/86165-323714.jpg"
+            ],
+            "cost": "587.00",
+            "brend": "Andrea",
+            "description": "Ширина: 110 см\r\nГлубина: 48 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "86165",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe6c",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Акватон Лондри 120 120x50 (правый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/61812-307290.jpg",
+                "https://api.dom-santehniki.by/storage/images/61812-351830.jpg",
+                "https://api.dom-santehniki.by/storage/images/61812-923779.jpg",
+                "https://api.dom-santehniki.by/storage/images/61812-144489.jpg",
+                "https://api.dom-santehniki.by/storage/images/61812-527266.jpg"
+            ],
+            "cost": "553.75",
+            "brend": "Акватон",
+            "description": "Ширина: 120 см\r\nГлубина: 50 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "61812",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe87",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник мебельный Эстет Даллас 100,2x48,2 левый (для стиральной машины)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73112-471305.jpg",
+                "https://api.dom-santehniki.by/storage/images/73112-163098.jpg",
+                "https://api.dom-santehniki.by/storage/images/73112-933835.jpg"
+            ],
+            "cost": "514.66",
+            "brend": "Эстет",
+            "description": "Ширина: 100.2 см\r\nГлубина: 48.2 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "73112",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe73",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Акватон Лондри 120 120x50 (левый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/72064-459637.jpg",
+                "https://api.dom-santehniki.by/storage/images/72064-469348.jpg",
+                "https://api.dom-santehniki.by/storage/images/72064-532253.jpg",
+                "https://api.dom-santehniki.by/storage/images/72064-434283.jpg",
+                "https://api.dom-santehniki.by/storage/images/72064-362563.jpg"
+            ],
+            "cost": "475.76",
+            "brend": "Акватон",
+            "description": "Ширина: 120 см\r\nГлубина: 50 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "72064",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe8f",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник на стиральную машину Santek Пилот 60 60,5x61,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/71333-464338.jpg",
+                "https://api.dom-santehniki.by/storage/images/71333-242324.jpg"
+            ],
+            "cost": "216.71",
+            "brend": "Santek",
+            "description": "Ширина: 61 см\r\nГлубина: 60 см\r\nКонструкция: На стиральную машину\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "71333",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe91",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник мебельный Эстет Даллас 130,2x48,2 правый (для стиральной машины)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73111-653114.jpg",
+                "https://api.dom-santehniki.by/storage/images/73111-659185.jpg",
+                "https://api.dom-santehniki.by/storage/images/73111-388160.jpg"
+            ],
+            "cost": "679.38",
+            "brend": "Эстет",
+            "description": "Ширина: 130.2 см\r\nГлубина: 48.2 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "73111",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe9e",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Белюкс Vortex (Вортекс) VR-60x60 для установки над стиральной машиной",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83491-250283.jpg",
+                "https://api.dom-santehniki.by/storage/images/83491-219654.jpg",
+                "https://api.dom-santehniki.by/storage/images/83491-555509.jpg"
+            ],
+            "cost": "371.81",
+            "brend": "Белюкс",
+            "description": "Ширина: 60.7 см\r\nГлубина: 60.2 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Беларусь",
+            "article": "83491",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fea0",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник на стиральную машину ANDREA Corolina 60 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/113624-106553.jpg",
+                "https://api.dom-santehniki.by/storage/images/113624-268866.jpg",
+                "https://api.dom-santehniki.by/storage/images/113624-748200.jpg"
+            ],
+            "cost": "423.85",
+            "brend": "Andrea",
+            "description": "Ширина: 59.9 см\r\nГлубина: 59.9 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "113624",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fea5",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Versalia Elegant 120x48 белый (правый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/120329-484103.jpg",
+                "https://api.dom-santehniki.by/storage/images/120329-279481.jpg",
+                "https://api.dom-santehniki.by/storage/images/120329-590879.jpg"
+            ],
+            "cost": "610.00",
+            "brend": "Versalia",
+            "description": "Ширина: 120 см\r\nГлубина: 48 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "120329",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863feaa",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Andrea Cosmos 110 110x48 белый (правый) с кронштейном",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/135260-569622.jpg",
+                "https://api.dom-santehniki.by/storage/images/135260-650404.jpg",
+                "https://api.dom-santehniki.by/storage/images/135260-624603.jpg",
+                "https://api.dom-santehniki.by/storage/images/135260-943933.jpg"
+            ],
+            "cost": "488.68",
+            "brend": "Andrea",
+            "description": "Ширина: 110 см\r\nГлубина: 48 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "135260",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fed1",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Versalia Elegant 120x48 белый с комплектом кронштейнов (правый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/120331-817628.jpg",
+                "https://api.dom-santehniki.by/storage/images/120331-224096.jpg",
+                "https://api.dom-santehniki.by/storage/images/120331-330199.jpg"
+            ],
+            "cost": "660.00",
+            "brend": "Versalia",
+            "description": "-",
+            "article": "120331",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff1c",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Угловые",
+            "title": "Умывальник Ravak BeHappy R 50x57 XJAP1100000 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/112297-709006.jpg",
+                "https://api.dom-santehniki.by/storage/images/112297-838779.jpg",
+                "https://api.dom-santehniki.by/storage/images/112297-131957.jpg"
+            ],
+            "cost": "-",
+            "brend": "Ravak",
+            "description": "-",
+            "article": "112297",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff37",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux D1043 40х22",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40471-505599.jpg"
+            ],
+            "cost": "339.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 40 см\r\nГлубина: 22 см\r\nКонструкция: На стену\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40471",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff3e",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 9032С 46х22,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40507-199455.jpg"
+            ],
+            "cost": "272.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 45 см\r\nГлубина: 23 см\r\nКонструкция: На тумбу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40507",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff41",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Welt-Wasser ELBACH 3003 40x40 белый глянец",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64413-113356.jpg",
+                "https://api.dom-santehniki.by/storage/images/64413-592585.jpg",
+                "https://api.dom-santehniki.by/storage/images/64413-438447.jpg",
+                "https://api.dom-santehniki.by/storage/images/64413-782248.jpg"
+            ],
+            "cost": "157.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 40 см\r\nГлубина: 40 см\r\nКонструкция: На столешницу\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "64413",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff47",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Bocchi 1494-001-0125 38x38",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64776-507540.jpg",
+                "https://api.dom-santehniki.by/storage/images/64776-674784.jpg"
+            ],
+            "cost": "283.00",
+            "brend": "Bocchi",
+            "description": "Ширина: 38 см\r\nГлубина: 38 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Италия",
+            "article": "64776",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff4e",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 9359 36х38",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40488-692049.jpg",
+                "https://api.dom-santehniki.by/storage/images/40488-441253.jpg"
+            ],
+            "cost": "315.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 35 см\r\nГлубина: 38 см\r\nКонструкция: На стену\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40488",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff50",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 5004 39,5х39,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40398-558160.jpg"
+            ],
+            "cost": "321.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 40 см\r\nГлубина: 40 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40398",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff56",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Grossman GR-3026 39,5x39,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/68184-707663.jpg",
+                "https://api.dom-santehniki.by/storage/images/68184-873085.jpg",
+                "https://api.dom-santehniki.by/storage/images/68184-711271.jpg",
+                "https://api.dom-santehniki.by/storage/images/68184-252660.jpg"
+            ],
+            "cost": "333.00",
+            "brend": "Grossman",
+            "description": "Ширина: 39.5 см\r\nГлубина: 39.5 см\r\nКонструкция: На тумбу\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "68184",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff5e",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник Roca The Gap 3270MM000 42x39",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64799-433345.jpg",
+                "https://api.dom-santehniki.by/storage/images/64799-452899.jpg"
+            ],
+            "cost": "484.00",
+            "brend": "Roca",
+            "description": "Ширина: 42 см\r\nГлубина: 39 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Испания",
+            "article": "64799",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff80",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 9078 39х39",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/41111-187752.jpg",
+                "https://api.dom-santehniki.by/storage/images/41111-662394.jpg"
+            ],
+            "cost": "315.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 39 см\r\nГлубина: 39 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "41111",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff89",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник Welt-Wasser AISBACH 5075 подвесной",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64508-844974.jpg",
+                "https://api.dom-santehniki.by/storage/images/64508-431272.jpg",
+                "https://api.dom-santehniki.by/storage/images/64508-766148.jpg",
+                "https://api.dom-santehniki.by/storage/images/64508-298280.jpg"
+            ],
+            "cost": "217.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 38 см\r\nГлубина: 24.5 см\r\nКонструкция: На стену\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "64508",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffa1",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Welt-Wasser ELBACH 3134 35,5x35,5 белый глянец",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64459-273686.jpg",
+                "https://api.dom-santehniki.by/storage/images/64459-109104.jpg",
+                "https://api.dom-santehniki.by/storage/images/64459-211903.jpg",
+                "https://api.dom-santehniki.by/storage/images/64459-539010.jpg"
+            ],
+            "cost": "187.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 35.5 см\r\nГлубина: 35.5 см\r\nКонструкция: На столешницу\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "64459",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffbe",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Bocchi 1478-001-0325 38x38",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64785-357055.jpg",
+                "https://api.dom-santehniki.by/storage/images/64785-508949.jpg"
+            ],
+            "cost": "302.41",
+            "brend": "Bocchi",
+            "description": "Ширина: 38.2 см\r\nГлубина: 38.2 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Италия",
+            "article": "64785",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863feb2",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник на стиральную машину Kirovit Престиж 600 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/76658-748100.jpg",
+                "https://api.dom-santehniki.by/storage/images/76658-234724.jpg",
+                "https://api.dom-santehniki.by/storage/images/76658-863889.jpg",
+                "https://api.dom-santehniki.by/storage/images/76658-970105.jpg",
+                "https://api.dom-santehniki.by/storage/images/76658-106194.jpg"
+            ],
+            "cost": "318.14",
+            "brend": "Kirovit",
+            "description": "Ширина: 60 см\r\nГлубина: 60 см\r\nКонструкция: На стиральную машину\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "76658",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fec6",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Artel Plast APR002-14  60х50",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/31432-394724.jpg",
+                "https://api.dom-santehniki.by/storage/images/31432-928172.jpg",
+                "https://api.dom-santehniki.by/storage/images/31432-703176.jpg"
+            ],
+            "cost": "369.00",
+            "brend": "Artel Plast",
+            "description": "Ширина: 60 см\r\nГлубина: 50 см\r\nКонструкция: На стиральную машину\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Украина",
+            "article": "31432",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fec8",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник над стиральной машиной Gran-Stone GS-1U 58,5x59 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/111842-901132.jpg",
+                "https://api.dom-santehniki.by/storage/images/111842-295350.jpg",
+                "https://api.dom-santehniki.by/storage/images/111842-506497.jpg"
+            ],
+            "cost": "378.00",
+            "brend": "Gran-Stone",
+            "description": "Ширина: 58.5 см\r\nГлубина: 59 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "111842",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fee4",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Угловые",
+            "title": "Умывальник Porta SCA C35 35х35",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/9234-307996.jpg"
+            ],
+            "cost": "90.00",
+            "brend": "Porta",
+            "description": "Ширина: 35 см\r\nГлубина: 35 см\r\nКонструкция: На стену\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Португалия",
+            "article": "9234",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fef4",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Угловые",
+            "title": "Умывальник подвесной угловой Abber Kristall AT2705Opal коричневый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/152085-262825.jpg",
+                "https://api.dom-santehniki.by/storage/images/152085-860197.jpg",
+                "https://api.dom-santehniki.by/storage/images/152085-161048.jpg",
+                "https://api.dom-santehniki.by/storage/images/152085-688122.jpg",
+                "https://api.dom-santehniki.by/storage/images/152085-148309.jpg"
+            ],
+            "cost": "5023.30",
+            "brend": "Abber",
+            "description": "Ширина: 42.2 см\r\nГлубина: 42.2 см\r\nКонструкция: На стену\r\nМатериал: Полиэфирная смола\r\nЦвет: Коричневый\r\nПроизводство: Китай",
+            "article": "152085",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff07",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Угловые",
+            "title": "Умывальник CeramaLux 78377 56x34",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/55271-568278.jpg",
+                "https://api.dom-santehniki.by/storage/images/55271-205346.jpg"
+            ],
+            "cost": "593.00",
+            "brend": "CeramaLux",
+            "description": "-",
+            "article": "55271",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff25",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник Welt-Wasser AISBACH 5092-R подвесной",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64490-323606.jpg",
+                "https://api.dom-santehniki.by/storage/images/64490-849531.jpg",
+                "https://api.dom-santehniki.by/storage/images/64490-962400.jpg",
+                "https://api.dom-santehniki.by/storage/images/64490-760789.jpg"
+            ],
+            "cost": "179.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 37 см\r\nГлубина: 18.5 см\r\nКонструкция: На стену\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "64490",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff2a",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 9272R 36,5х18,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40470-390892.jpg",
+                "https://api.dom-santehniki.by/storage/images/40470-116969.jpg"
+            ],
+            "cost": "339.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 35 см\r\nГлубина: 19 см\r\nКонструкция: На стену\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40470",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff48",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Roca Terra 39 см 32722D000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/54998-828307.jpg",
+                "https://api.dom-santehniki.by/storage/images/54998-258702.jpg",
+                "https://api.dom-santehniki.by/storage/images/54998-949775.jpg",
+                "https://api.dom-santehniki.by/storage/images/54998-478284.jpg",
+                "https://api.dom-santehniki.by/storage/images/54998-412763.jpg",
+                "https://api.dom-santehniki.by/storage/images/54998-951931.jpg"
+            ],
+            "cost": "819.00",
+            "brend": "Roca",
+            "description": "Ширина: 39 см\r\nГлубина: 39 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Испания",
+            "article": "54998",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff5c",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 9008В 46х46",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/40443-491907.jpg",
+                "https://api.dom-santehniki.by/storage/images/40443-482366.jpg"
+            ],
+            "cost": "302.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 45 см\r\nГлубина: 46 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Китай",
+            "article": "40443",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff76",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 78321 45x40",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/55307-699761.jpg"
+            ],
+            "cost": "510.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 45 см\r\nГлубина: 40 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Серебро\r\nПроизводство: Китай",
+            "article": "55307",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff78",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник напольный Welt-Wasser MERZBACH 007S GL-WT 38x38 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79453-307181.jpg",
+                "https://api.dom-santehniki.by/storage/images/79453-405878.jpg",
+                "https://api.dom-santehniki.by/storage/images/79453-201641.jpg",
+                "https://api.dom-santehniki.by/storage/images/79453-702572.jpg"
+            ],
+            "cost": "513.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 38 см\r\nГлубина: 38 см\r\nКонструкция: На пол\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "79453",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff7c",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник CeramaLux 78308 38,5x38,5",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/55242-387435.jpg",
+                "https://api.dom-santehniki.by/storage/images/55242-262946.jpg"
+            ],
+            "cost": "393.00",
+            "brend": "CeramaLux",
+            "description": "Ширина: 38.5 см\r\nГлубина: 38.5 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Чёрный\r\nПроизводство: Китай",
+            "article": "55242",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ff7d",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Isvea Sistema Y Soft 10SY65045 45x45, черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/70689-641674.jpg",
+                "https://api.dom-santehniki.by/storage/images/70689-527577.jpg",
+                "https://api.dom-santehniki.by/storage/images/70689-200407.jpg"
+            ],
+            "cost": "333.06",
+            "brend": "Isvea",
+            "description": "Ширина: 45 см\r\nГлубина: 45 см\r\nКонструкция: На столешницу\r\nМатериал: Фаянс\r\nЦвет: Чёрный\r\nПроизводство: Италия",
+            "article": "70689",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffa6",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Belbagno BB1315 41x41",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/62363-277953.jpg",
+                "https://api.dom-santehniki.by/storage/images/62363-959755.jpg",
+                "https://api.dom-santehniki.by/storage/images/62363-943708.jpg"
+            ],
+            "cost": "238.40",
+            "brend": "Belbagno",
+            "description": "Ширина: 41 см\r\nГлубина: 41 см\r\nКонструкция: На столешницу\r\nМатериал: Фарфор\r\nЦвет: Белый\r\nПроизводство: Италия",
+            "article": "62363",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffad",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник подвесной Welt-Wasser AISBACH 5112 44,5x21,5 белый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79451-741566.jpg",
+                "https://api.dom-santehniki.by/storage/images/79451-899365.jpg",
+                "https://api.dom-santehniki.by/storage/images/79451-145930.jpg",
+                "https://api.dom-santehniki.by/storage/images/79451-992650.jpg"
+            ],
+            "cost": "228.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 44.5 см\r\nГлубина: 21.5 см\r\nКонструкция: На стену\r\nМатериал: Фаянс\r\nЦвет: Белый\r\nПроизводство: Германия",
+            "article": "79451",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffb0",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Welt-Wasser ELBACH 3134 MG 35,5x35,5 матовый бирюзовый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79421-232849.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-474032.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-364565.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-630692.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-791628.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-857843.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-411660.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-992451.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-318203.jpg",
+                "https://api.dom-santehniki.by/storage/images/79421-296176.jpg"
+            ],
+            "cost": "201.00",
+            "brend": "Welt-Wasser",
+            "description": "Ширина: 35.5 см\r\nГлубина: 35.5 см\r\nКонструкция: На столешницу\r\nМатериал: Фаянс\r\nЦвет: Цветной\r\nПроизводство: Германия",
+            "article": "79421",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863ffcf",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "Маленькие",
+            "title": "Умывальник накладной Holbi Demeter 40,5x40,5 NC нано-бетон",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/75566-885116.jpg",
+                "https://api.dom-santehniki.by/storage/images/75566-226685.jpg",
+                "https://api.dom-santehniki.by/storage/images/75566-579763.jpg",
+                "https://api.dom-santehniki.by/storage/images/75566-768758.jpg"
+            ],
+            "cost": "1470.00",
+            "brend": "Holbi",
+            "description": "Ширина: 40.5 см\r\nГлубина: 40.5 см\r\nКонструкция: На столешницу\r\nМатериал: Искусственный камень\r\nЦвет: Серый\r\nПроизводство: Беларусь",
+            "article": "75566",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe7c",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Misty Гавана 119x49 мебельный (на стиральную машину) правый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/65268-707356.jpg",
+                "https://api.dom-santehniki.by/storage/images/65268-362331.jpg",
+                "https://api.dom-santehniki.by/storage/images/65268-493347.jpg"
+            ],
+            "cost": "554.64",
+            "brend": "Misty",
+            "description": "Ширина: 119 см\r\nГлубина: 49 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "65268",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe86",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Misty Гавана 100,2x48,4 мебельный (на стиральную машину) правый",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/65266-497242.jpg",
+                "https://api.dom-santehniki.by/storage/images/65266-441113.jpg",
+                "https://api.dom-santehniki.by/storage/images/65266-375460.jpg"
+            ],
+            "cost": "533.28",
+            "brend": "Misty",
+            "description": "Ширина: 100.2 см\r\nГлубина: 48.4 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "65266",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe92",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник мебельный Эстет Даллас 120,2x48,2 правый (для стиральной машины)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73100-893662.jpg",
+                "https://api.dom-santehniki.by/storage/images/73100-144637.jpg",
+                "https://api.dom-santehniki.by/storage/images/73100-612203.jpg"
+            ],
+            "cost": "588.71",
+            "brend": "Эстет",
+            "description": "Ширина: 120.2 см\r\nГлубина: 48.2 см\r\nКонструкция: На стиральную машину\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "73100",
+            "__v": 0
+        }
+    ],
+    "totalPages": 98
+}

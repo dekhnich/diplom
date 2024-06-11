@@ -1,0 +1,826 @@
+{
+    "products": [
+        {
+            "_id": "658f2c3b061751740d8a6fec",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Chaber BGC_010M",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/64240-735101.jpg",
+                "https://api.dom-santehniki.by/storage/images/64240-913651.jpg"
+            ],
+            "cost": "190.38",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "64240",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6fef",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа с внутренней частью Paffoni Light LIG001NO (черный матовый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/56904-218954.jpg",
+                "https://api.dom-santehniki.by/storage/images/56904-490659.jpg"
+            ],
+            "cost": "2029.68",
+            "brend": "Paffoni",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Италия",
+            "article": "56904",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a700f",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Jasmin BGJ_013M",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/46764-964470.jpg",
+                "https://api.dom-santehniki.by/storage/images/46764-266630.jpg"
+            ],
+            "cost": "659.20",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "46764",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff0",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Bravat Art River F675109C-B",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/24490-778192.jpg",
+                "https://api.dom-santehniki.by/storage/images/24490-196576.jpg",
+                "https://api.dom-santehniki.by/storage/images/24490-312748.jpg",
+                "https://api.dom-santehniki.by/storage/images/24490-972275.jpg",
+                "https://api.dom-santehniki.by/storage/images/24490-114455.jpg"
+            ],
+            "cost": "448.48",
+            "brend": "Bravat",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "24490",
+            "__v": 0
+        },
+        {
+            "_id": "658e592177051efbd863fe71",
+            "category": "Раковины и столешницы",
+            "subcategory": "Умывальники",
+            "type": "На стиральную машину",
+            "title": "Умывальник Акватон Лондри 105 105x50 (левый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/72063-926497.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-503569.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-155459.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-500627.jpg",
+                "https://api.dom-santehniki.by/storage/images/72063-696226.jpg"
+            ],
+            "cost": "483.27",
+            "brend": "Акватон",
+            "description": "Ширина: 105 см\r\nГлубина: 50 см\r\nКонструкция: На стиральную машину|на тумбу\r\nМатериал: Искусственный камень\r\nЦвет: Белый\r\nПроизводство: Россия",
+            "article": "72063",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a700d",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Термостат для встраиваемого монтажа Grohe Grohtherm SmartControl 29124 000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/33170-793379.jpg",
+                "https://api.dom-santehniki.by/storage/images/33170-102461.jpg"
+            ],
+            "cost": "2074.85",
+            "brend": "Grohe",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nС термостатом\r\nПроизводство: Германия",
+            "article": "33170",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff3",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Omnires Y Y1231GL с душевым набором",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/63277-933161.jpg",
+                "https://api.dom-santehniki.by/storage/images/63277-844249.jpg",
+                "https://api.dom-santehniki.by/storage/images/63277-573088.jpg"
+            ],
+            "cost": "969.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "63277",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff9",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Wasserkraft Vils 5602L",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/42670-862561.jpg",
+                "https://api.dom-santehniki.by/storage/images/42670-873263.jpg",
+                "https://api.dom-santehniki.by/storage/images/42670-772106.jpg"
+            ],
+            "cost": "473.61",
+            "brend": "Wasserkraft",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Поворотный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "42670",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6fea",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Bravat Fit F6135188CP-B-RUS",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/26471-763957.jpg",
+                "https://api.dom-santehniki.by/storage/images/26471-319378.jpg",
+                "https://api.dom-santehniki.by/storage/images/26471-626045.jpg"
+            ],
+            "cost": "251.70",
+            "brend": "Bravat",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "26471",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7006",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель на борт ванны Ravak Rosa RS 025.00 каскадный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/39527-461139.jpg",
+                "https://api.dom-santehniki.by/storage/images/39527-108777.jpg",
+                "https://api.dom-santehniki.by/storage/images/39527-957002.jpg",
+                "https://api.dom-santehniki.by/storage/images/39527-377130.jpg",
+                "https://api.dom-santehniki.by/storage/images/39527-912126.jpg"
+            ],
+            "cost": "763.00",
+            "brend": "Ravak",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Каскадный\r\nБез термостата\r\nПроизводство: Чехия",
+            "article": "39527",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6fed",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель напольный для ванны OMNIRES Y1233CR хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/44549-159271.jpg",
+                "https://api.dom-santehniki.by/storage/images/44549-543962.jpg"
+            ],
+            "cost": "2204.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На пол\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "44549",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7002",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель напольный для ванны OMNIRES Y Y1233 BL",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/65427-914675.jpg",
+                "https://api.dom-santehniki.by/storage/images/65427-839216.jpg"
+            ],
+            "cost": "2982.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На пол\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "65427",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ffb",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа Paffoni Light LIQ023NO с термостатом (черный матовый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/56905-759207.jpg",
+                "https://api.dom-santehniki.by/storage/images/56905-143384.jpg"
+            ],
+            "cost": "1309.00",
+            "brend": "Paffoni",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nС термостатом\r\nПроизводство: Италия",
+            "article": "56905",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a700b",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны на 4 отверстия Omnires Baretti BA7832CR",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/55032-950413.jpg",
+                "https://api.dom-santehniki.by/storage/images/55032-756287.jpg"
+            ],
+            "cost": "997.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "55032",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff6",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Ravak Chrome CR 025.00 каскадный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/36633-620236.jpg",
+                "https://api.dom-santehniki.by/storage/images/36633-260871.jpg"
+            ],
+            "cost": "986.00",
+            "brend": "Ravak",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Каскадный\r\nБез термостата\r\nПроизводство: Чехия",
+            "article": "36633",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6fee",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель на борт ванны Bravat GINA F565104C-2-ENG",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/53640-378376.jpg",
+                "https://api.dom-santehniki.by/storage/images/53640-624484.jpg"
+            ],
+            "cost": "791.77",
+            "brend": "Bravat",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "53640",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff1",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Omnires Y Y1231BL с душевым набором",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/63278-476851.jpg",
+                "https://api.dom-santehniki.by/storage/images/63278-256123.jpg",
+                "https://api.dom-santehniki.by/storage/images/63278-162888.jpg"
+            ],
+            "cost": "969.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "63278",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7014",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны на 4 отверстия Omnires Parma PM7432 BL",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/58417-191902.jpg",
+                "https://api.dom-santehniki.by/storage/images/58417-593819.jpg",
+                "https://api.dom-santehniki.by/storage/images/58417-668697.jpg",
+                "https://api.dom-santehniki.by/storage/images/58417-531754.jpg"
+            ],
+            "cost": "1248.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "58417",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7015",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Werbena BCW_010M",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/46773-163087.jpg",
+                "https://api.dom-santehniki.by/storage/images/46773-274352.jpg"
+            ],
+            "cost": "186.91",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "46773",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a701a",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Термостатический смеситель для душа скрытого монтажа Omnires Parma PM7436BL черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/68305-682335.jpg",
+                "https://api.dom-santehniki.by/storage/images/68305-693995.jpg",
+                "https://api.dom-santehniki.by/storage/images/68305-618848.jpg"
+            ],
+            "cost": "997.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны|для душа\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nС термостатом\r\nПроизводство: Польша",
+            "article": "68305",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7031",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны напольный Omnires Parma PM7433 BL",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/65439-425351.jpg",
+                "https://api.dom-santehniki.by/storage/images/65439-754093.jpg"
+            ],
+            "cost": "2584.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На пол\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "65439",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7046",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Maruna BGM 012M CR",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/43836-528104.jpg",
+                "https://api.dom-santehniki.by/storage/images/43836-173488.jpg",
+                "https://api.dom-santehniki.by/storage/images/43836-827706.jpg"
+            ],
+            "cost": "458.91",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Поворотный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "43836",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a704c",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны RAV-SLEZAK Zambezi ZA087.3",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/31364-697483.jpg",
+                "https://api.dom-santehniki.by/storage/images/31364-322769.jpg"
+            ],
+            "cost": "442.00",
+            "brend": "RAV Slezak",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Чехия",
+            "article": "31364",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7053",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель на борт ванны Ravak WF 025.00",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/39522-288362.jpg",
+                "https://api.dom-santehniki.by/storage/images/39522-396693.jpg",
+                "https://api.dom-santehniki.by/storage/images/39522-656467.jpg"
+            ],
+            "cost": "1074.00",
+            "brend": "Ravak",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Каскадный\r\nБез термостата\r\nПроизводство: Чехия",
+            "article": "39522",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7055",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Wasserkraft Aller White 1061",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/30370-158463.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-596623.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-273839.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-398221.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-267145.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-193495.jpg",
+                "https://api.dom-santehniki.by/storage/images/30370-517073.jpg"
+            ],
+            "cost": "915.65",
+            "brend": "Wasserkraft",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "30370",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7068",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Бокс скрытого монтажа Deante Box BXY_X44M 3-х функц.",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/73495-688680.jpg",
+                "https://api.dom-santehniki.by/storage/images/73495-346588.jpg",
+                "https://api.dom-santehniki.by/storage/images/73495-907895.jpg",
+                "https://api.dom-santehniki.by/storage/images/73495-318443.jpg"
+            ],
+            "cost": "656.05",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "73495",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7096",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа Valvex Estil Round 2447160 хром термостатический",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/71365-939606.jpg",
+                "https://api.dom-santehniki.by/storage/images/71365-182096.jpg"
+            ],
+            "cost": "585.00",
+            "brend": "Valvex",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nС термостатом\r\nПроизводство: Польша",
+            "article": "71365",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7099",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для душа скрытого монтажа Omnires Y1236ROCR элемент наружного монтажа, хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79765-556125.jpg",
+                "https://api.dom-santehniki.by/storage/images/79765-320823.jpg"
+            ],
+            "cost": "442.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nС термостатом\r\nПроизводство: Польша",
+            "article": "79765",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70ab",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Jasmin BGJ 010M CR",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/43882-844818.jpg",
+                "https://api.dom-santehniki.by/storage/images/43882-601367.jpg"
+            ],
+            "cost": "179.37",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "43882",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70b4",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Grohe BauEdge 23334 000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/21660-578005.jpg",
+                "https://api.dom-santehniki.by/storage/images/21660-572728.jpg"
+            ],
+            "cost": "351.37",
+            "brend": "Grohe",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "21660",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70c6",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель скрытого монтажа для ванны Omnires 5-hole Y1237/1 GL золото",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79766-114304.jpg",
+                "https://api.dom-santehniki.by/storage/images/79766-777620.jpg",
+                "https://api.dom-santehniki.by/storage/images/79766-828744.jpg",
+                "https://api.dom-santehniki.by/storage/images/79766-200305.jpg",
+                "https://api.dom-santehniki.by/storage/images/79766-811471.jpg"
+            ],
+            "cost": "2115.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "79766",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70cb",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Hansgrohe Metris Classic 31478000",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/2066-660694.jpg",
+                "https://api.dom-santehniki.by/storage/images/2066-141072.jpg"
+            ],
+            "cost": "1577.90",
+            "brend": "Hansgrohe",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "2066",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70ce",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель напольный для ванны OMNIRES Contour CT8033CR хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/80651-986261.jpg",
+                "https://api.dom-santehniki.by/storage/images/80651-615039.jpg"
+            ],
+            "cost": "3533.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На пол\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "80651",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a70d8",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель скрытого монтажа для ванны Grohe BauEdge 29079001 хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/79661-351647.jpg",
+                "https://api.dom-santehniki.by/storage/images/79661-620235.jpg",
+                "https://api.dom-santehniki.by/storage/images/79661-789443.jpg",
+                "https://api.dom-santehniki.by/storage/images/79661-164334.jpg",
+                "https://api.dom-santehniki.by/storage/images/79661-667276.jpg"
+            ],
+            "cost": "745.10",
+            "brend": "Grohe",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "79661",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a70e1",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Wasserkraft Rossel 2801",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/30227-582337.jpg",
+                "https://api.dom-santehniki.by/storage/images/30227-791547.jpg",
+                "https://api.dom-santehniki.by/storage/images/30227-502032.jpg"
+            ],
+            "cost": "462.18",
+            "brend": "Wasserkraft",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "30227",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a70fd",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Paffoni Tango TA023CR",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/69846-135024.jpg",
+                "https://api.dom-santehniki.by/storage/images/69846-337829.jpg"
+            ],
+            "cost": "761.60",
+            "brend": "Paffoni",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Италия",
+            "article": "69846",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a710b",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Omnires Parma PM7430GR графит",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83792-791129.jpg",
+                "https://api.dom-santehniki.by/storage/images/83792-184240.jpg"
+            ],
+            "cost": "633.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "83792",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a711c",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для душа скрытого монтажа Omnires Y1236ROGL элемент наружного монтажа золото",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/83791-832799.jpg",
+                "https://api.dom-santehniki.by/storage/images/83791-892117.jpg"
+            ],
+            "cost": "745.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nС термостатом\r\nПроизводство: Польша",
+            "article": "83791",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a711f",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны скрытого монтажа Omnires Contour CT8037/1GLB брашированное золото",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/80659-263042.jpg",
+                "https://api.dom-santehniki.by/storage/images/80659-333327.jpg",
+                "https://api.dom-santehniki.by/storage/images/80659-395113.jpg",
+                "https://api.dom-santehniki.by/storage/images/80659-274931.jpg"
+            ],
+            "cost": "3696.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "80659",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a7136",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Alpen Niagara хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/13524-682907.jpg",
+                "https://api.dom-santehniki.by/storage/images/13524-113237.jpg"
+            ],
+            "cost": "1296.00",
+            "brend": "Alpen",
+            "description": "Назначение: Для ванны\r\nМонтаж: На борт ванны\r\nИзлив: Каскадный\r\nБез термостата\r\nПроизводство: Австрия",
+            "article": "13524",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a714a",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Boheme Vogue 223 хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/75781-559643.jpg",
+                "https://api.dom-santehniki.by/storage/images/75781-985579.jpg"
+            ],
+            "cost": "1207.04",
+            "brend": "Boheme",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Каскадный\r\nБез термостата\r\nПроизводство: Италия",
+            "article": "75781",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a7153",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа Wasserkraft Main 4141",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/62232-499274.jpg",
+                "https://api.dom-santehniki.by/storage/images/62232-193439.jpg",
+                "https://api.dom-santehniki.by/storage/images/62232-525402.jpg"
+            ],
+            "cost": "507.56",
+            "brend": "Wasserkraft",
+            "description": "Назначение: Для ванны|для душа\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "62232",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a715b",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа скрытого монтажа Omnires Contour CT8035/1AT антрацит",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/80655-366741.jpg",
+                "https://api.dom-santehniki.by/storage/images/80655-892257.jpg"
+            ],
+            "cost": "2340.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны|для душа\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "80655",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3c061751740d8a7160",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Villeroy&Boch Architectura Square TVT12500100061 хром",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/74404-425841.jpg",
+                "https://api.dom-santehniki.by/storage/images/74404-142789.jpg"
+            ],
+            "cost": "673.00",
+            "brend": "Villeroy & Boch",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Германия",
+            "article": "74404",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff2",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Begonia BCB_01BT",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/47104-489339.jpg",
+                "https://api.dom-santehniki.by/storage/images/47104-953718.jpg"
+            ],
+            "cost": "306.60",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nС термостатом\r\nПроизводство: Польша",
+            "article": "47104",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a6ff7",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны и душа с внутренней частью Paffoni Light LIG015NO (черный матовый)",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/56903-427328.jpg",
+                "https://api.dom-santehniki.by/storage/images/56903-617395.jpg"
+            ],
+            "cost": "707.61",
+            "brend": "Paffoni",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Италия",
+            "article": "56903",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7001",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Deante Arnika BQA_010M",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/46761-828171.jpg",
+                "https://api.dom-santehniki.by/storage/images/46761-391615.jpg",
+                "https://api.dom-santehniki.by/storage/images/46761-320062.jpg",
+                "https://api.dom-santehniki.by/storage/images/46761-286599.jpg"
+            ],
+            "cost": "352.94",
+            "brend": "Deante",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "46761",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7018",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель скрытого монтажа для ванны Omnires Y Y1235 CHR",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/41781-183104.jpg",
+                "https://api.dom-santehniki.by/storage/images/41781-198102.jpg"
+            ],
+            "cost": "507.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: Скрытый монтаж\r\nИзлив: Без излива\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "41781",
+            "__v": 0
+        },
+        {
+            "_id": "658f2c3b061751740d8a7032",
+            "category": "Смесители и душ",
+            "subcategory": "Смесители",
+            "type": "Смесители для ванны",
+            "title": "Смеситель для ванны Omnires Y Y1230 BL черный",
+            "images": [
+                "https://api.dom-santehniki.by/storage/images/74161-359551.jpg",
+                "https://api.dom-santehniki.by/storage/images/74161-484252.jpg"
+            ],
+            "cost": "718.00",
+            "brend": "Omnires",
+            "description": "Назначение: Для ванны\r\nМонтаж: На стену\r\nИзлив: Стационарный\r\nБез термостата\r\nПроизводство: Польша",
+            "article": "74161",
+            "__v": 0
+        }
+    ],
+    "totalPages": 120
+}
