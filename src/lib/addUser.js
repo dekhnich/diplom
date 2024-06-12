@@ -1,12 +1,13 @@
+import bcrypt from 'bcryptjs';
+
 export function addUser(login, password, setError) {
     const users = JSON.parse( localStorage.getItem('users') ) || {};
 
     if (!(login in users)) {
-        users[login] = password;
+        const hashedPassword = bcrypt.hashSync(password, 10);
+        users[login] = hashedPassword;
         localStorage.setItem('users', JSON.stringify(users));
-        console.log('adding user', {login, password})
     } else {
         setError('Такой пользователь уже существует')
     }
-
 }

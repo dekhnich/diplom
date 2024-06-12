@@ -426,7 +426,6 @@ export default function KatalogMain() {
                 }
                 <div className="katalog-list">
                     {shownProducts?.map((el) => {
-                        // debugger
                         return (
                             <KatalogItem
                                 key={el._id}

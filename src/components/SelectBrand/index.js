@@ -1,4 +1,4 @@
-export default function SelectBrank({ onChange }) {
+export default function SelectBrand({ onChange }) {
     function handleChange(e) {
         onChange(e.target.value)
     }
