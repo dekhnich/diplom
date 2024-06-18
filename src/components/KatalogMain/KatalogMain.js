@@ -329,7 +329,14 @@ export default function KatalogMain() {
                                 <line x1="11.9045" y1="0.337011" x2="1.71722" y2="11.502" stroke="#2C3035" />
                                 <line y1="-0.5" x2="15.1142" y2="-0.5" transform="matrix(0.724343 0.68944 0.68944 -0.724343 1 0.204712)" stroke="#2C3035" />
                             </svg>
-                            <div className="filter-type">
+                            <div>Фильтр по категориям</div>
+                            <SelectCategory onChange={value => setCurrentCategory(value)} />
+                            <button style={buttonStyles} onClick={() => setCurrentCategory('all')}>Показать все</button>
+
+                            <div>Фильтр по брендам</div>
+                            <SelectBrand onChange={value => setCurrentBrand(value)} />
+                            <button style={buttonStyles} onClick={() => setCurrentBrand('all')}>Показать все</button>
+                            {/* <div className="filter-type">
                                 <span onClick={() => { setIsOpenPlumbFilter(!isOpenPlumbFilter) }} >Сантехника
                                     <svg style={{ transform: `rotate(${isOpenPlumbFilter ? '-180deg' : '0deg'})`, transitionDuration: '0.2s' }} xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6" fill="none">
                                         <path d="M1 1.07251L5.15472 4.88384C5.5617 5.25718 6.22848 5.26492 6.64401 4.90112L10.8988 1.17609" stroke="#2C3035" />
@@ -420,7 +427,7 @@ export default function KatalogMain() {
                                         </div>
                                     </>
                                 }
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 }
